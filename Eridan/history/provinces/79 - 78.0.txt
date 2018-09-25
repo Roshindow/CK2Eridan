@@ -1,0 +1,15 @@
+# c_78_0
+
+# County Title
+title = c_78_0
+
+# Settlements
+max_settlements = 1
+
+b_78_0 = castle
+
+# Misc
+culture = getrevan
+religion = taresin
+
+#History

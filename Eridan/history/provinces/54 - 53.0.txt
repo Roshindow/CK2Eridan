@@ -1,0 +1,15 @@
+# c_53_0
+
+# County Title
+title = c_53_0
+
+# Settlements
+max_settlements = 1
+
+b_53_0 = castle
+
+# Misc
+culture = redlander
+religion = catholic
+
+#History

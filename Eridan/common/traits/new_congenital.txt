@@ -1,0 +1,1468 @@
+#Congenital Traits
+absentminded = {
+	birth = 50
+	inherit_chance = 15
+	combat_rating = -1
+	general_opinion = -10
+	diplomacy = -1
+	intrigue = -1
+	learning = -1
+}
+agile = {
+	birth = 100
+	inherit_chance = 25
+	
+	opposites =  {
+		agile_1
+		agile_2
+		lazy
+		lazy_1
+		lazy_2
+	}
+	
+	martial = 1
+	fertility = 0.05
+	combat_rating = 1
+	sex_appeal_opinion = 5
+	vassal_opinion = 5
+}
+agile_1 = {
+	birth = 75
+	inherit_chance = 15
+	
+	opposites =  {
+		agile
+		agile_2
+		lazy
+		lazy_1
+		lazy_2
+	}
+	
+	martial = 1.5
+	health = 1
+	fertility = 0.1
+	combat_rating = 2
+	sex_appeal_opinion = 5
+	vassal_opinion = 5
+}
+agile_2 = {
+	birth = 50
+	inherit_chance = 10
+	
+	opposites =  {
+		agile
+		agile_1
+		lazy
+		lazy_1
+		lazy_2
+	}
+	
+	martial = 2
+	health = 1
+	fertility = 0.1
+	combat_rating = 3
+	sex_appeal_opinion = 10
+	vassal_opinion = 10
+}
+ambidextrous = {
+	birth = 50
+	inherit_chance = 25
+
+	opposites =  {
+		lefthanded
+	}
+	combat_rating = 2
+	martial = 1
+	stewardship = 1
+	learning = 1
+
+}
+blind = {
+	birth = 50
+	inherit_chance = 15
+	combat_rating = -3
+	sex_appeal_opinion = -5
+	martial = -5
+	stewardship = -2
+	intrigue = -2
+}
+calming_voice = {
+	birth = 100
+	inherit_chance = 15
+
+	opposites =  {
+		calming_voice_1
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	sex_appeal_opinion = 5
+	vassal_opinion = 5
+	diplomacy = 1
+}
+calming_voice_1 = {
+	birth = 75
+	inherit_chance = 10
+
+	opposites =  {
+		calming_voice
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	sex_appeal_opinion = 5
+	vassal_opinion = 5
+	diplomacy = 2
+	intrigue = 1
+}
+calming_voice_2 = {
+	birth = 50
+	inherit_chance = 5
+
+	opposites =  {
+		calming_voice
+		calming_voice_1
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	sex_appeal_opinion = 10
+	vassal_opinion = 10
+	diplomacy = 2
+	intrigue = 2
+}
+deaf = {
+	birth = 50
+	inherit_chance = 25
+	combat_rating = -2
+	sex_appeal_opinion = -5
+	martial = -3
+	stewardship = -2
+	intrigue = -5
+	
+	customizer = no
+}
+dwarf = {
+	birth = 50
+	inherit_chance = 50
+	
+	opposites =  {
+		dwarf_1
+		dwarf_2
+		tall
+		tall_1
+		tall_2
+	}	
+	sex_appeal_opinion = -5
+	same_opinion = 5
+	general_opinion = -5
+	tribal_opinion = -5
+	
+	martial = -1
+		
+	combat_rating = -2
+	
+	male_insult = INSULT_DWARF
+	female_insult = INSULT_DWARF
+	male_insult_adj = INSULT_LITTLE
+	female_insult_adj = INSULT_LITTLE
+	child_insult_adj = INSULT_STUPID
+}
+dwarf_1 = {
+	birth = 25
+	inherit_chance = 25
+	
+	opposites =  {
+		dwarf
+		dwarf_2
+		tall
+		tall_1
+		tall_2
+	}	
+	
+	sex_appeal_opinion = -10
+	same_opinion = 10
+	general_opinion = -10
+	
+	tribal_opinion = -10
+	
+	martial = -2
+		
+	combat_rating = -3
+	
+	male_insult = INSULT_DWARF
+	female_insult = INSULT_DWARF
+	male_insult_adj = INSULT_LITTLE
+	female_insult_adj = INSULT_LITTLE
+	child_insult_adj = INSULT_STUPID
+}
+dwarf_2 = {
+	birth = 15
+	inherit_chance = 15
+	
+	opposites =  {
+		dwarf
+		dwarf_1
+		tall
+		tall_1
+		tall_2
+	}	
+	
+	sex_appeal_opinion = -15
+	same_opinion = 15
+	general_opinion = -15
+	
+	tribal_opinion = -15
+	
+	martial = -3
+		
+	combat_rating = -4
+	
+	male_insult = INSULT_DWARF
+	female_insult = INSULT_DWARF
+	male_insult_adj = INSULT_LITTLE
+	female_insult_adj = INSULT_LITTLE
+	child_insult_adj = INSULT_STUPID
+}
+fair = {
+	birth = 500
+	inherit_chance = 25
+	
+	sex_appeal_opinion = 20
+	
+	opposites =  {
+		fair_1
+		fair_2
+		ugly
+		ugly_1
+		ugly_2
+	}
+	
+	diplomacy = 1
+	female_compliment = COMPL_BEAUTY
+	female_compliment_adj = COMPL_FAIR
+	male_compliment = COMPL_CHARMER
+	male_compliment_adj = COMPL_HANDSOME
+}
+fair_1 = {
+	birth = 250
+	inherit_chance = 15
+	
+	sex_appeal_opinion = 30
+	
+	opposites =  {
+		fair
+		fair_2
+		ugly
+		ugly_1
+		ugly_2
+	}
+	
+	diplomacy = 2
+	female_compliment = COMPL_BEAUTY
+	female_compliment_adj = COMPL_FAIR
+	male_compliment = COMPL_CHARMER
+	male_compliment_adj = COMPL_HANDSOME
+}
+fair_2 = {
+	birth = 50
+	inherit_chance = 10
+	
+	sex_appeal_opinion = 40
+	
+	opposites =  {
+		fair
+		fair_1
+		ugly
+		ugly_1
+		ugly_2
+	}
+	
+	diplomacy = 3
+	female_compliment = COMPL_BEAUTY
+	female_compliment_adj = COMPL_FAIR
+	male_compliment = COMPL_CHARMER
+	male_compliment_adj = COMPL_HANDSOME
+}
+fertile = {
+	birth = 100
+	inherit_chance = 25
+
+	sex_appeal_opinion = 5
+	
+	opposites =  {
+		fertile_1
+		fertile_2
+		infertile
+		infertile_1
+		infertile_2
+	}
+	
+	fertility = 0.1
+
+}
+fertile_1 = {
+	birth = 75
+	inherit_chance = 15
+
+	sex_appeal_opinion = 10
+	
+	opposites =  {
+		fertile
+		fertile_2
+		infertile
+		infertile_1
+		infertile_2
+	}
+	
+	fertility = 0.2
+
+}
+fertile_2 = {
+	birth = 50
+	inherit_chance = 10
+
+	sex_appeal_opinion = 15
+	
+	opposites =  {
+		fertile
+		fertile_1
+		infertile
+		infertile_1
+		infertile_2
+	}
+	
+	fertility = 0.3
+
+}
+genius = {
+	birth = 100
+	inherit_chance = 25
+	
+	opposites =  {
+		genius_1
+		genius_2
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	martial = 4
+	learning = 4
+	
+	combat_rating = 3
+	
+	ai_rationality = 10
+	vassal_opinion = 5
+	male_compliment = COMPL_GENIUS
+	male_compliment_adj = COMPL_BRILLIANT
+	female_compliment = COMPL_GENIUS
+	female_compliment_adj = COMPL_BRILLIANT
+}
+genius_1 = {
+	birth = 75
+	inherit_chance = 15
+	
+	opposites =  {
+		genius
+		genius_2
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	martial = 5
+	learning = 5
+	
+	combat_rating = 4
+	
+	ai_rationality = 20
+	vassal_opinion = 5
+	male_compliment = COMPL_GENIUS
+	male_compliment_adj = COMPL_BRILLIANT
+	female_compliment = COMPL_GENIUS
+	female_compliment_adj = COMPL_BRILLIANT
+}
+genius_2 = {
+	birth = 50
+	inherit_chance = 10
+	
+	opposites =  {
+		genius
+		genius_1
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	martial = 6
+	learning = 6
+	
+	combat_rating = 5
+	
+	ai_rationality = 30
+	vassal_opinion = 5
+	male_compliment = COMPL_GENIUS
+	male_compliment_adj = COMPL_BRILLIANT
+	female_compliment = COMPL_GENIUS
+	female_compliment_adj = COMPL_BRILLIANT
+}
+imbecile = {
+	birth = 75
+	inherit_chance = 25
+	
+	sex_appeal_opinion = -30
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile_1
+		imbecile_2
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = -4
+	intrigue = -4
+	stewardship = -4
+	martial = -4
+	learning = -4
+	
+	ai_rationality = -10
+	
+	combat_rating = -3
+
+	vassal_opinion = -10
+	male_insult = INSULT_IMBECILE
+	female_insult = INSULT_IMBECILE
+	male_insult_adj = INSULT_IDIOT
+	female_insult_adj = INSULT_IDIOT
+}
+imbecile_1 = {
+	birth = 50
+	inherit_chance = 15
+	
+	sex_appeal_opinion = -30
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile
+		imbecile_2
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = -6
+	intrigue = -6
+	stewardship = -6
+	martial = -6
+	learning = -6
+	
+	ai_rationality = -20
+	
+	combat_rating = -4
+	
+	vassal_opinion = -10
+	male_insult = INSULT_IMBECILE
+	female_insult = INSULT_IMBECILE
+	male_insult_adj = INSULT_IDIOT
+	female_insult_adj = INSULT_IDIOT
+}
+imbecile_2 = {
+	birth = 25
+	inherit_chance = 10
+	
+	sex_appeal_opinion = -30
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile
+		imbecile_1
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = -8
+	intrigue = -8
+	stewardship = -8
+	martial = -8
+	learning = -8
+	
+	ai_rationality = -30
+	
+	combat_rating = -5
+
+	vassal_opinion = -10
+	male_insult = INSULT_IMBECILE
+	female_insult = INSULT_IMBECILE
+	male_insult_adj = INSULT_IDIOT
+	female_insult_adj = INSULT_IDIOT
+}
+imposing = {
+	birth = 50
+	inherit_chance = 15
+
+	martial = 1
+	combat_rating = 1
+	vassal_opinion = 5
+
+}
+infertile = {
+	birth = 50
+	inherit_chance = 50
+
+	sex_appeal_opinion = -5
+	
+	opposites =  {
+		fertile
+		fertile_1
+		fertile_2
+		infertile_1
+		infertile_2
+	}
+	
+	fertility = -0.1
+
+}
+infertile_1 = {
+	birth = 25
+	inherit_chance = 25
+
+	sex_appeal_opinion = -10
+	
+	opposites =  {
+		fertile
+		fertile_1
+		fertile_2
+		infertile
+		infertile_2
+	}
+	
+	fertility = -0.2
+
+}
+infertile_2 = {
+	birth = 15
+	inherit_chance = 15
+
+	sex_appeal_opinion = -15
+	
+	opposites =  {
+		fertile
+		fertile_1
+		fertile_2
+		infertile
+		infertile_1
+	}
+	
+	fertility = -0.3
+
+}
+lazy = {
+	birth = 75
+	inherit_chance = 25
+	
+	opposites =  {
+		agile
+		agile_1
+		agile_2
+		lazy_1
+		lazy_2
+	}
+	
+	martial = -1
+	fertility = -0.05
+	combat_rating = -1
+	sex_appeal_opinion = -5
+	vassal_opinion = -5
+}
+lazy_1 = {
+	birth = 50
+	inherit_chance = 15
+	
+	opposites =  {
+		agile
+		agile_1
+		agile_2
+		lazy
+		lazy_2
+	}
+	
+	martial = -1.5
+	health = -1
+	fertility = -0.1
+	combat_rating = -2
+	sex_appeal_opinion = -5
+	vassal_opinion = -5
+}
+lazy_2 = {
+	birth = 25
+	inherit_chance = 10
+	
+	opposites =  {
+		agile
+		agile_1
+		agile_2
+		lazy
+		lazy_1
+	}
+	
+	martial = -2
+	health = -1
+	fertility = -0.1
+	combat_rating = -3
+	sex_appeal_opinion = -10
+	vassal_opinion = -10
+}
+lefthanded = {
+	birth = 100
+	inherit_chance = 25
+
+	opposites =  {
+		ambidextrous
+	}
+
+	church_opinion = -5
+	diplomacy = -1		
+	martial = 1
+	intrigue = 1
+
+}
+lisp = {
+	birth = 75
+	inherit_chance = 25
+	
+	sex_appeal_opinion = -5
+	same_opinion = 5
+	
+	diplomacy = -1
+	ruler_designer_cost = -4
+	
+	opposites =  {
+		lisp_1
+		lisp_2
+		stutter
+		stutter_1
+		stutter_2
+		mute
+		wrymouth
+	}
+	
+	diplomacy = -1
+	ruler_designer_cost = -4
+	male_insult = INSULT_LISPER
+	female_insult = INSULT_LISPER
+	male_insult_adj = INSULT_FALTERING
+	female_insult_adj = INSULT_FALTERING
+}
+lisp_1 = {
+	birth = 50
+	inherit_chance = 15
+	
+	sex_appeal_opinion = -10
+	same_opinion = 10
+	
+	diplomacy = -2
+	ruler_designer_cost = -6
+	opposites =  {
+		lisp
+		lisp_2
+		stutter
+		stutter_1
+		stutter_2
+		mute
+		wrymouth
+	}
+	
+	diplomacy = -2
+	ruler_designer_cost = -6
+	male_insult = INSULT_LISPER
+	female_insult = INSULT_LISPER
+	male_insult_adj = INSULT_FALTERING
+	female_insult_adj = INSULT_FALTERING
+}
+lisp_2 = {
+	birth = 25
+	inherit_chance = 10
+	
+	sex_appeal_opinion = -15
+	same_opinion = 15
+	opposites =  {
+		lisp
+		lisp_1
+		stutter
+		stutter_1
+		stutter_2
+		mute
+		wrymouth
+	}
+	
+	diplomacy = -3
+	ruler_designer_cost = -8
+	male_insult = INSULT_LISPER
+	female_insult = INSULT_LISPER
+	male_insult_adj = INSULT_FALTERING
+	female_insult_adj = INSULT_FALTERING
+}
+melodious_voice = {
+	birth = 100
+	inherit_chance = 15
+
+	opposites =  {
+		calming_voice
+		calming_voice_1
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	sex_appeal_opinion = 5
+	vassal_opinion = 5
+	diplomacy = 1
+}
+melodious_voice_1 = {
+	birth = 75
+	inherit_chance = 10
+
+	opposites =  {
+		calming_voice
+		calming_voice_1
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	sex_appeal_opinion = 10
+	vassal_opinion = 10
+	diplomacy = 2
+}
+melodious_voice_2 = {
+	birth = 50
+	inherit_chance = 5
+
+	opposites =  {
+		calming_voice
+		calming_voice_1
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	sex_appeal_opinion = 15
+	vassal_opinion = 15
+	diplomacy = 3
+}
+mute = {
+	birth = 50
+	inherit_chance = 15
+
+	opposites =  {
+		calming_voice
+		calming_voice_1
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		lisp
+		lisp_1
+		lisp_2
+		stutter
+		stutter_1
+		stutter_2
+		wrymouth
+	}
+	
+	sex_appeal_opinion = -5
+	martial = -3
+	diplomacy = -5
+	intrigue = -2
+	
+	customizer = no
+}
+powerful_voice = {
+	birth = 100
+	inherit_chance = 15
+
+	opposites =  {
+		calming_voice
+		calming_voice_1
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	vassal_opinion = 5
+	martial = 1
+}
+powerful_voice_1 = {
+	birth = 75
+	inherit_chance = 10
+
+	opposites =  {
+		calming_voice
+		calming_voice_1
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	vassal_opinion = 5
+	martial = 2
+}
+powerful_voice_2 = {
+	birth = 50
+	inherit_chance = 5
+
+	opposites =  {
+		calming_voice
+		calming_voice_1
+		calming_voice_2
+		melodious_voice
+		melodious_voice_1
+		melodious_voice_2
+		powerful_voice
+		powerful_voice_1
+		powerful_voice_2
+		mute
+	}
+
+	vassal_opinion = 10
+	martial = 3
+	diplomacy = -1
+}
+quick = {
+	birth = 100
+	inherit_chance = 25
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = 1
+	intrigue = 1
+	stewardship = 1
+	martial = 1
+	learning = 1
+	
+	ai_rationality = 5
+}
+quick_1 = {
+	birth = 75
+	inherit_chance = 15
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = 2
+	intrigue = 2
+	stewardship = 2
+	martial = 2
+	learning = 2
+	
+	combat_rating = 1
+	
+	ai_rationality = 10
+}
+quick_2 = {
+	birth = 50
+	inherit_chance = 10
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 3
+	martial = 3
+	learning = 3
+	
+	combat_rating = 2
+
+	ai_rationality = 15
+}
+slow = {
+	birth = 75
+	inherit_chance = 25
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow_1
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = -1
+	intrigue = -1
+	stewardship = -1
+	martial = -1
+	learning = -1
+	
+	ai_rationality = -5
+	
+	male_insult = INSULT_DULLARD
+	female_insult = INSULT_NITWIT
+	male_insult_adj = INSULT_DIM
+	female_insult_adj = INSULT_VACUOUS
+}
+slow_1 = {
+	birth = 50
+	inherit_chance = 15
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow
+		slow_2
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = -2
+	intrigue = -2
+	stewardship = -2
+	martial = -2
+	learning = -2
+	
+	ai_rationality = -10
+	
+	combat_rating = -1
+	
+	male_insult = INSULT_DULLARD
+	female_insult = INSULT_NITWIT
+	male_insult_adj = INSULT_DIM
+	female_insult_adj = INSULT_VACUOUS
+}
+slow_2 = {
+	birth = 25
+	inherit_chance = 10
+	
+	opposites =  {
+		genius
+		genius_1
+		genius_2
+		imbecile
+		imbecile_1
+		imbecile_2
+		slow
+		slow_1
+		quick
+		quick_1
+		quick_2
+	}
+	
+	diplomacy = -3
+	intrigue = -3
+	stewardship = -3
+	martial = -3
+	learning = -3
+	
+	ai_rationality = -15
+	
+	combat_rating = -2
+	
+	male_insult = INSULT_DULLARD
+	female_insult = INSULT_NITWIT
+	male_insult_adj = INSULT_DIM
+	female_insult_adj = INSULT_VACUOUS
+}
+strong = {
+	birth = 100
+	inherit_chance = 25
+	
+	opposites =  {
+		strong_1
+		strong_2
+		weak
+		weak_1
+		weak_2
+	}
+	
+	martial = 1
+	fertility = 0.05
+
+	combat_rating = 1
+	
+	sex_appeal_opinion = 5
+	vassal_opinion = 5
+	tribal_opinion = 10
+	
+	male_compliment_adj = COMPL_STRONG
+}
+strong_1 = {
+	birth = 75
+	inherit_chance = 15
+	
+	opposites =  {
+		strong
+		strong_2
+		weak
+		weak_1
+		weak_2
+	}
+	
+	martial = 2
+	health = 1
+	fertility = 0.1
+	
+	combat_rating = 2
+	
+	sex_appeal_opinion = 5
+	vassal_opinion = 10
+	tribal_opinion = 10
+	
+	male_compliment_adj = COMPL_STRONG
+}
+strong_2 = {
+	birth = 50
+	inherit_chance = 10
+	
+	opposites =  {
+		strong
+		strong_1
+		weak
+		weak_1
+		weak_2
+	}
+	
+	martial = 3
+	health = 2
+	fertility = 0.15
+	
+	combat_rating = 3
+	
+	sex_appeal_opinion = 10
+	vassal_opinion = 10
+	tribal_opinion = 15
+	
+	male_compliment_adj = COMPL_STRONG
+}
+stutter = {
+	birth = 75
+	inherit_chance = 25
+	
+	same_opinion = 5
+	opposites =  {
+		lisp
+		lisp_1
+		lisp_2
+		stutter_1
+		stutter_2
+		mute
+		wrymouth
+	}
+	
+	diplomacy = -1
+	ruler_designer_cost = -4
+	male_insult_adj = INSULT_STUTTERING
+	female_insult_adj = INSULT_STUTTERING
+}
+stutter_1 = {
+	birth = 50
+	inherit_chance = 15
+
+	same_opinion = 10
+	opposites =  {
+		lisp
+		lisp_1
+		lisp_2
+		stutter
+		stutter_2
+		mute
+		wrymouth
+	}
+	
+	diplomacy = -2
+	ruler_designer_cost = -6
+	male_insult_adj = INSULT_STUTTERING
+	female_insult_adj = INSULT_STUTTERING
+}
+stutter_2 = {
+	birth = 25
+	inherit_chance = 10
+	
+	sex_appeal_opinion = -5
+	same_opinion = 10
+	opposites =  {
+		lisp
+		lisp_1
+		lisp_2
+		stutter
+		stutter_1
+		mute
+		wrymouth
+	}
+	
+	diplomacy = -3
+	ruler_designer_cost = -8
+	male_insult_adj = INSULT_STUTTERING
+	female_insult_adj = INSULT_STUTTERING
+}
+tall = {
+	birth = 100
+	inherit_chance = 25
+	
+	opposites =  {
+		dwarf
+		dwarf_1
+		dwarf_2
+		tall
+		tall_1
+		tall_2
+	}	
+	
+	martial = 1
+	sex_appeal_opinion = 5
+	combat_rating = 1
+	ruler_designer_cost = 5
+	male_insult = INSULT_HULK
+	female_insult = INSULT_HULK
+	male_insult_adj = INSULT_HULKING
+	female_insult_adj = INSULT_HULKING
+}
+tall_1 = {
+	birth = 75
+	inherit_chance = 15
+	
+	opposites =  {
+		dwarf
+		dwarf_1
+		dwarf_2
+		tall
+		tall_2
+	}	
+	
+	martial = 2
+	intrigue = -1
+
+	sex_appeal_opinion = 5
+	combat_rating = 2
+	ruler_designer_cost = 10
+	male_insult = INSULT_HULK
+	female_insult = INSULT_HULK
+	male_insult_adj = INSULT_HULKING
+	female_insult_adj = INSULT_HULKING
+}
+tall_2 = {
+	birth = 50
+	inherit_chance = 10
+	
+	opposites =  {
+		dwarf
+		dwarf_1
+		dwarf_2
+		tall
+		tall_1
+	}	
+
+	martial = 3
+	intrigue = -1
+	combat_rating = 3
+	ruler_designer_cost = 20
+	male_insult = INSULT_HULK
+	female_insult = INSULT_HULK
+	male_insult_adj = INSULT_HULKING
+	female_insult_adj = INSULT_HULKING
+}
+ugly = {
+	birth = 75
+	inherit_chance = 25
+	
+	sex_appeal_opinion = -5
+	
+	opposites =  {
+		fair
+		fair_1
+		fair_2
+		ugly_1
+		ugly_2
+	}
+	
+	diplomacy = -1
+	male_insult = INSULT_GROTESQUE
+	female_insult = INSULT_GORGON
+	male_insult_adj = INSULT_HIDEOUS
+	female_insult_adj = INSULT_HIDEOUS
+}
+ugly_1 = {
+	birth = 50
+	inherit_chance = 15
+	
+	sex_appeal_opinion = -10
+	
+	opposites =  {
+		fair
+		fair_1
+		fair_2
+		ugly
+		ugly_2
+	}
+	
+	diplomacy = -2
+	male_insult = INSULT_GROTESQUE
+	female_insult = INSULT_GORGON
+	male_insult_adj = INSULT_HIDEOUS
+	female_insult_adj = INSULT_HIDEOUS
+}
+ugly_2 = {
+	birth = 25
+	inherit_chance = 10
+	
+	sex_appeal_opinion = -15
+	
+	opposites =  {
+		fair
+		fair_1
+		fair_2
+		ugly
+		ugly_1
+	}
+	
+	diplomacy = -3
+	male_insult = INSULT_GROTESQUE
+	female_insult = INSULT_GORGON
+	male_insult_adj = INSULT_HIDEOUS
+	female_insult_adj = INSULT_HIDEOUS
+}
+weak = {
+	birth = 100
+	inherit_chance = 25
+	
+	opposites =  {
+		strong
+		strong_1
+		strong_2
+		weak_1
+		weak_2
+	}
+	
+	martial = -1
+	fertility = -0.05
+	
+	combat_rating = -1
+	
+	sex_appeal_opinion = -5
+	vassal_opinion = -5
+	tribal_opinion = -10
+	
+	male_insult = INSULT_WEAKLING
+}
+weak_1 = {
+	birth = 75
+	inherit_chance = 15
+	
+	opposites =  {
+		strong
+		strong_1
+		strong_2
+		weak
+		weak_2
+	}
+	
+	martial = -2
+	health = -1.0
+	fertility = -0.1
+	
+	combat_rating = -2
+	
+	sex_appeal_opinion = -5
+	vassal_opinion = -10
+	tribal_opinion = -10
+	
+	male_insult = INSULT_WEAKLING
+}
+weak_2 = {
+	birth = 50
+	inherit_chance = 10
+	
+	opposites =  {
+		strong
+		strong_1
+		strong_2
+		weak
+		weak_1
+	}
+	
+	martial = -3
+	health = -2.0
+	fertility = -0.15
+	
+	combat_rating = -3
+	
+	sex_appeal_opinion = -10
+	vassal_opinion = -10
+	tribal_opinion = -10
+	
+	male_insult = INSULT_WEAKLING
+}
+webbed_hands = {
+	birth = 50
+	inherit_chance = 15
+	
+	sex_appeal_opinion = -15
+	same_opinion = 5
+	
+	vassal_opinion = -5
+	combat_rating = -1
+	martial = -1
+	ruler_designer_cost = -8
+}
+wrymouth = {
+	birth = 50
+	inherit_chance = 25
+
+	opposites =  {
+		lisp
+		lisp_1
+		lisp_2
+		stutter
+		stutter_1
+		stutter_2
+		mute
+	}
+	
+	health = -0.2		
+	diplomacy = -1
+	
+	sex_appeal_opinion = -10
+
+}
+heterochromia = {
+	birth = 100
+	inherit_chance = 25
+}

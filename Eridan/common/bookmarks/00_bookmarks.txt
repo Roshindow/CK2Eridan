@@ -1,0 +1,28 @@
+bm_eridan = {
+	name = "BM_ERIDAN_ERA"
+	desc = "BM_ERIDAN_ERA_INFO"
+	date = 2102.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+	custom_start = yes
+	
+	selectable_character = {
+		id = 2
+		age = 72
+		name = ERA_CHAR_NAME_2
+		title = k_redlands
+		title_name = KREDLANDS
+		
+		character = {
+			dna = afjcj0hac00
+			properties = rk0i000b00000e0000
+			female = yes
+			religion = "brozgexok"
+			culture = "saxon"
+			government = feudal_government
+			dynasty = 1
+		}
+	}
+}

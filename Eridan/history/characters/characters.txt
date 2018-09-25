@@ -1,0 +1,847 @@
+1 = {
+    name=William
+    dynasty=2
+	
+    religion=brozgexok
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+2 = {
+    name=William
+    dynasty=2
+	
+    religion=brozgexok
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+3 = {
+    name=William
+    dynasty=2
+	
+    religion=brozgexok
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+4 = {
+    name=William
+    dynasty=2
+	
+    religion=brozgexok
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+5 = {
+    name=William
+    dynasty=2
+	
+    religion=brozgexok
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+6 = {
+    name=William
+    dynasty=2
+	
+    religion=garic
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+7 = {
+    name=William
+    dynasty=2
+	
+    religion=catholic
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+8 = {
+    name=William
+    dynasty=2
+	
+    religion=catholic
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+9 = {
+    name=William
+    dynasty=2
+	
+    religion=catholic
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+10 = {
+    name=William
+    dynasty=2
+	
+    religion=catholic
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+11 = {
+    name=William
+    dynasty=2
+	
+    religion=catholic
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
+10000 = {
+	name="Jon"
+	dynasty=1
+	
+	dna="ceiih0li0a0" 
+	properties="s00icb000000000000"
+	
+#	father=
+#	mother=
+
+	martial=1
+	diplomacy=1
+	intrigue=1
+	stewardship=1
+	learning=1
+	
+	religion="catholic"
+	culture="sumansch"
+	
+	add_trait="fair"
+	add_trait="cynical"
+	add_trait="genius"
+#	add_trait="egalitarian"
+	
+#	historical = yes 
+	
+	1995.1.2={
+		birth=yes
+	}
+	
+	2058.1.2={
+		death=yes
+	}
+}
+10001 = {
+	name="Haral"
+	dynasty=1
+	
+	dna="alblh0k0ca0" 
+	properties="k00ibh0a0000000000"
+	
+	father=10000
+#	mother=
+	
+	health=15
+	
+	martial=1
+	diplomacy=1
+	intrigue=1
+	stewardship=1
+	learning=1
+	
+	religion="catholic"
+	culture="sumansch"
+	
+	add_trait="mastermind_theologian"
+	add_trait="cynical"
+	add_trait="weak"
+	add_trait="zealous"
+	add_trait="quick"
+	
+#	historical = yes 
+	
+	2018.1.2={
+		birth=yes
+	}
+}
+10002 = {
+	name="Heinri"
+	female=yes
+	dynasty=1
+	
+	dna="afjcj0hac00" 
+	properties="rk0i000b00000e0000"
+	
+	father=10000
+#	mother=
+
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=3
+	learning=4
+	
+	religion="catholic"
+	culture="sumansch"
+	
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="brave"
+	add_trait="quick"
+	add_trait="scarred"
+	add_trait="one_eyed"
+	add_trait="skilled_tactician"
+	add_trait="familyperson"
+	add_trait="absentminded"
+	
+#	historical = yes 
+	
+	2029.1.2={
+		birth=yes
+	}
+	
+	2048.1.1={
+		add_spouse=10009
+	}
+}
+10003 = {
+	name="Rang"
+	dynasty=3
+	
+	dna="0hdd00hbc00" 
+	properties="pj0gbh0a00000l0000"
+	
+#	father=
+#	mother=
+	
+	
+	martial=1
+	diplomacy=1
+	intrigue=1
+	stewardship=1
+	learning=1
+	
+	religion="brozgexok"
+	culture="redlander"
+	
+	add_trait="zealous"
+	add_trait="greedy"
+	add_trait="cruel"
+	add_trait="raper"
+	add_trait="makikar"
+	
+#	historical = yes 
+	
+	2069.1.2={
+		birth=yes
+	}
+}
+10004 = {
+	name="Gottor"
+	dynasty=4
+	
+#	father=
+	mother=10012
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	1969.1.2={
+		birth=yes
+	}
+	
+	1990.1.1={
+		add_spouse=10005
+	}
+	
+	2058.1.2={
+		death=yes
+	}
+}
+10005 = {
+	name="Redna"
+	female=yes
+	dynasty=5
+	
+#	father=
+#	mother=
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	1969.1.2={
+		birth=yes
+	}
+	
+	1990.1.1={
+		add_spouse=10004
+	}
+	
+	2058.1.2={
+		death=yes
+	}
+}
+10006 = {
+	name="Hugor"
+	dynasty=4
+	
+	father=10004
+	mother=10005
+	
+	religion="catholic"
+	culture="redlander"
+	
+	add_trait="chaste"
+	
+#	historical = yes 
+	
+	1989.1.2={
+		birth=yes
+	}
+	
+	2078.1.2={
+		death=yes
+	}
+}
+10007 = {
+	name="Onna"
+	female=yes
+	dynasty=4
+	
+	father=10004
+	mother=10005
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	2000.1.2={
+		birth=yes
+	}
+	
+	2050.1.1={
+		add_spouse=10017
+	}
+	
+	2078.1.2={
+		death=yes
+	}
+}
+10008 = {
+	name="Olivia"
+	female=yes
+	dynasty=4
+	
+	father=1004
+	mother=1005
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	2029.1.2={
+		birth=yes
+	}
+	
+	2050.1.1={
+		add_spouse=10016
+	}
+}
+10009 = {
+	name="Jon"
+	dynasty=4
+	
+	father=10016
+	mother=10008
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	2059.1.2={
+		birth=yes
+	}
+	
+	2048.1.1={
+		add_spouse=10002
+	}
+}
+10010 = {
+	name="PLACEHOLDER"
+}
+10011 = {
+	name="Gottor"
+	dynasty=6
+	
+	dna="bcecg0j0bb0"
+	properties="fj0fbk0b0000000000"
+	
+	father=10015
+	mother=10014
+	
+	religion="njoric"
+	culture="fjor"
+	
+#	historical = yes 
+	
+	2029.1.2={
+		birth=yes
+	}
+}
+10012 = {
+	name="Abbey"
+	female=yes
+	dynasty=4
+	
+#	father=
+#	mother=
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	1949.1.2={
+		birth=yes
+	}
+	
+	2038.1.2={
+		death=yes
+	}
+}
+10013 = {
+	name="Maura"
+	female=yes
+	dynasty=4
+	
+#	father=
+	mother=10012
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	1969.1.2={
+		birth=yes
+	}
+	
+	2078.1.2={
+		death=yes
+	}
+}
+10014 = {
+	name="Abi"
+	female=yes
+	dynasty=4
+	
+#	father=
+	mother=10012
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	1969.1.2={
+		birth=yes
+	}
+	
+	1990.1.1={
+		add_spouse=10015
+	}
+	
+	2078.1.2={
+		death=yes
+	}
+}
+10015 = {
+	name="Axal"
+	dynasty=6
+	
+#	father=
+#	mother=
+	
+	religion="njoric"
+	culture="fjor"
+	
+#	historical = yes 
+	
+	1969.1.2={
+		birth=yes
+	}
+	
+	1990.1.1={
+		add_spouse=10014
+	}
+	
+	2078.1.2={
+		death=yes
+	}
+}
+10016 = {
+	name="Charle"
+	dynasty=7
+	
+#	father=
+#	mother=
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	2029.1.2={
+		birth=yes
+	}
+	
+	2050.1.1={
+		add_spouse=10008
+	}
+	
+	2078.1.2={
+		death=yes
+	}
+}
+10017 = {
+	name="Rahd"
+	dynasty=7
+	
+#	father=
+#	mother=
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	2029.1.2={
+		birth=yes
+	}
+	
+	2050.1.1={
+		add_spouse=10007
+	}
+	
+	2078.1.2={
+		death=yes
+	}
+}
+10018 = {
+	name="Gottor II"
+	dynasty=4
+	
+	father=10017
+	mother=10007
+	
+	religion="catholic"
+	culture="redlander"
+	
+#	historical = yes 
+	
+	2059.1.2={
+		birth=yes
+	}
+}
+10019 = {
+	name="Rackel"
+	female=yes
+	dynasty=6
+	
+	dna="cghfd0k00b0"
+	properties="lc0b0k0a0000000000"
+
+	father=10011
+#	mother=
+	
+	religion="njoric"
+	culture="fjor"
+	
+#	historical = yes 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10020 = {
+	name="Syri"
+	female=yes
+	dynasty=6
+	
+	dna="cc0fd0j0a00"
+	properties="nb0b0k000000000000"
+	
+	father=10011
+#	mother=
+	
+	religion="njoric"
+	culture="fjor"
+	
+#	historical = yes 
+	
+	2083.1.2={
+		birth=yes
+	}
+}
+10021 = {
+	name="Njora"
+	female=yes
+	dynasty=6
+	
+	dna="0h0cd0jacb0"
+	properties="ne0c0d000000000000"
+	
+	father=10011
+#	mother=
+	
+	religion="njoric"
+	culture="fjor"
+	
+#	historical = yes 
+	
+	2085.1.2={
+		birth=yes
+	}
+}
+10022 = {
+	name="Mayna"
+	female=yes
+	dynasty=6
+	
+	dna="bgacd0gb000"
+	properties="ol000k000000000000"
+	
+	father=10011
+#	mother=
+	
+	religion="njoric"
+	culture="fjor"
+	
+#	historical = yes 
+	
+	2086.1.2={
+		birth=yes
+	}
+}
+10023 = {
+	name="Viktoria"
+	female=yes
+	dynasty=6
+	
+	dna="bgacd0gb000"
+	properties="tc0d0k000000000000"
+	
+	father=10011
+#	mother=
+	
+	religion="njoric"
+	culture="fjor"
+	
+#	historical = yes 
+	
+	2086.1.2={
+		birth=yes
+	}
+}
+10024 = {
+	name="Alrick"
+	dynasty=6
+	
+	dna="cabdg0feda0"
+	properties="ej00dk0000000e0000"
+	
+	father=10011
+#	mother=
+	
+	religion="njoric"
+	culture="fjor"
+	
+#	historical = yes 
+	
+	2088.1.2={
+		birth=yes
+	}
+}
+10025 = {
+	name="Damon"
+	dynasty=8
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10026 = {
+	name="Karson"
+	dynasty=9
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10027 = {
+	name="Jorden"
+	dynasty=10
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10028 = {
+	name="Cameron"
+	dynasty=11
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10029 = {
+	name="Nael"
+	dynasty=12
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10030 = {
+	name="Daisy"
+	dynasty=13
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10031 = {
+	name="Dwayne"
+	dynasty=14
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10032 = {
+	name="Peter"
+	dynasty=15
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10033 = {
+	name="Aydin"
+	dynasty=16
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10034 = {
+	name="Jack"
+	dynasty=17
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10035 = {
+	name="Joyce"
+	dynasty=18
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10036 = {
+	name="Ramon"
+	dynasty=19
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10037 = {
+	name="Cedar"
+	dynasty=20
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10038 = {
+	name="Or"
+	dynasty=21
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10039 = {
+	name="Hart"
+	dynasty=22
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}
+10040 = {
+	name="Wyl"
+	dynasty=23
+	
+	religion="catholic"
+	culture="redlander" 
+	
+	2080.1.2={
+		birth=yes
+	}
+}

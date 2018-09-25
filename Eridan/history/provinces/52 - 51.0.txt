@@ -1,0 +1,15 @@
+# c_51_0
+
+# County Title
+title = c_51_0
+
+# Settlements
+max_settlements = 1
+
+b_51_0 = castle
+
+# Misc
+culture = fjor
+religion = njoric
+
+#History

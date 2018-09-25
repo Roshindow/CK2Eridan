@@ -1,0 +1,53 @@
+
+song = {
+	name = "crusaderkings2_maintitle.ogg"
+	song_name = "Crusader Kings 2 Maintitle"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}
+
+song = {
+	name = "GuardiansOfTheWoods.ogg"
+	song_name = "Guardians Of The Woods"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}
+
+song = {
+	name = "Legend.ogg"
+	song_name = "Legend"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}
+
+song = {
+	name = "TheLastButterfly.ogg"
+	song_name = "The Last Butterfly"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}
+
+song = {
+	name = "TheWolfAndTheMoon.ogg"
+	song_name = "The Wolf And The Moon"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}
+
+
+

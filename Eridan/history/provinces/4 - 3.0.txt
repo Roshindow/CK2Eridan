@@ -1,0 +1,15 @@
+# c_3_0
+
+# County Title
+title = c_3_0
+
+# Settlements
+max_settlements = 1
+
+b_3_0 = castle
+
+# Misc
+culture = gotene
+religion = brozgexok
+
+#History

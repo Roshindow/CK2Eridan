@@ -1,0 +1,15 @@
+# c_85_0
+
+# County Title
+title = c_85_0
+
+# Settlements
+max_settlements = 1
+
+b_85_0 = castle
+
+# Misc
+culture = jiliac_culture
+religion = jiliac_religion
+
+#History

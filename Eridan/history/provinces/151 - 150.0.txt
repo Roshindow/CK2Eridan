@@ -1,0 +1,15 @@
+# c_150_0
+
+# County Title
+title = c_150_0
+
+# Settlements
+max_settlements = 1
+
+b_150_0 = castle
+
+# Misc
+culture = sumansch
+religion = catholic
+
+#History

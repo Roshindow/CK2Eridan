@@ -1,0 +1,170 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+absentminded;Absentminded;Distrait;;;;;;;;;;;;x
+absentminded_desc;This erratic character was born with a scatterbrained temperament. They tend to forget things easily, get distracted too easily, or both. This behavior may be endearing to some, but to others it is an annoyance.;
+Ce personnage erratique est ne avec un temperament ecervele. Ils ont tendance a oublier facilement les choses, se distraire trop facilement, ou les deux. Ce comportement peut être attachant pour certains, mais pour d'autres c'est un désagrement;x;;x;;;;;;;;;x
+agile;Energetic;Energique;;;;;;;;;;;;x
+agile_desc;This character is very energetic.;Ce personnage est tres energique;;;;;;;;;;;;x
+agile_1;Lithe;Souple;;;;;;;;;;;;x
+agile_1_desc;This character is very lithe.;Ce personnage est tres souple;;;;;;;;;;;;x
+agile_2;Agile;Agile;;;;;;;;;;;;x
+agile_2_desc;This character is very agile.;Ce personnage est tres agile;;;;;;;;;;;;x
+ambidextrous;Ambidextrous;Ambidextre;;;;;;;;;;;;x
+ambidextrous_desc;This character can naturally use both hands with equal skill. As a result, they are more efficient in whatever they do, whether it is swinging swords or writing letters.;Ce personnage peut naturellement utiliser les deux mains avec des competences égales. En consequence, ils sont plus efficaces dans tout ce qu'ils font, que ce soit des epees ou ecrire des lettres.;x;;x;;;;;;;;;x
+blind;Blind;Aveugle;;;;;;;;;;;;x
+blind_desc;This character was unfortunate enough to be born with limited to no sight at all. Such a disability limits their ability to function.;Ce personnage a eu la malchance d'etre ne avec une vue limitee ou nulle. Une telle incapacite limite leur capacite a fonctionner;;;;;;;;;;;;x
+calming_voice;Calm Voice;Voix calme;;;;;;;;;;;;x
+calming_voice_desc;This character has a very calming voice.;Ce personnage a une voix tres calme;;;;;;;;;;;;x
+calming_voice_1;Smooth Voice;Voix douce;;;;;;;;;;;;x
+calming_voice_1_desc;This character has a very smooth voice.;Ce personnage a une douce voix;;;;;;;;;;;;x
+calming_voice_2;Tranquil Voice;Voix tranquille;;;;;;;;;;;;x
+calming_voice_2_desc;This character has a very tranquil voice.;Ce caractere a une voix tranquille;;;;;;;;;;;;x
+deaf;Deaf;Sourd;;;;;;;;;;;;x
+deaf_desc;This character was unfortunate enough to be born with limited to no hearing at all. Such a disability limits their ability to function.;
+Ce personnage a eu la malchance d'etre ne avec une ecoute limitee ou nulle. Une telle incapacite limite leur capacite a fonctionner;x;;x;;;;;;;;;x
+dwarf;Short;Petit;;;;;;;;;;;;x
+dwarf_desc;This unfortunate character was born short.;Ce personnage est ne petit;;;;;;;;;;;;x
+dwarf_1;Small;Maigre;;;;;;;;;;;;x
+dwarf_1_desc;This unfortunate character was born with a small height.;Ce personnage est ne avec une faible carrure;;;;;;;;;;;;x
+dwarf_2;Dwarf;Nain;;;;;;;;;;;;x
+dwarf_2_desc;This unfortunate character was born a dwarf.;Ce personnage est ne nain;;;;;;;;;;;;x
+fair;Appealing;Attirant;;;;;;;;;;;;x
+fair_desc;This character has an appealing appearance;Ce personnage a une attirante apparence;;;;;;;;;;;;x
+fair_1;Attractive;Attractif;;;;;;;;;;;;x
+fair_1_desc;This character has an attractive appearance;Ce personna a une apparence attractive;;;;;;;;;;;;x
+fair_2;Immaculate;Immacule;;;;;;;;;;;;x
+fair_2_desc;This character has an immaculate appearance. ;Ce personnage a une apparence immaculee;;;;;;;;;;;;x
+fertile;Fruitful;Fructueux;;;;;;;;;;;;x
+fertile_desc;This character was blessed to be born fruitful.;Ce personnage a ete beni pour naître fecond;;;;;;;;;;;;x
+fertile_1;Fertile;Fertile;;;;;;;;;;;;x
+fertile_1_desc;This character was blessed to be born fertile.;Ce personnage a ete beni pour etre ne fertile;;;;;;;;;;;;x
+fertile_2;Prolific;Prolifique;;;;;;;;;;;;x
+fertile_2_desc;This character was blessed to be born prolific.;Ce personnage a ete beni pour etre ne prolifique;;;;;;;;;;;;x
+genius;Wise;Sage;;;;;;;;;;;;x
+genius_desc;This character is blessed with a decent intellect.;
+Ce personnage est beni avec un intellect decent.;;;;;;;;;;;;x
+genius_1;Genius;Genie;;;;;;;;;;;;x
+genius_1_desc;This character is blessed with a great intellect.;Ce personnage est beni avec une grande intelligence;;;;;;;;;;;;x
+genius_2;Brilliant;Brillant;;;;;;;;;;;;x
+genius_2_desc;This character is blessed with a towering intellect.;Ce personnage est beni avec un intellect dominant.
+;;;;;;;;;;;;x
+imbecile;Simple;Nigaud;;;;;;;;;;;;x
+imbecile_desc;This character is a simpleton.;Ce personnage est un nigaud;;;;;;;;;;;;x
+imbecile_1;Thick;Fort;;;;;;;;;;;;x
+imbecile_1_desc;This character is thick.;Ce personnage a une forte carrure;;;;;;;;;;;;x
+imbecile_2;Imbecile;Imbecile;;;;;;;;;;;;x
+imbecile_2_desc;This character is a drooling imbecile.;Ce personnage est un imbecile;;;;;;;;;;;;x
+imposing;Imposing;Imposant;;;;;;;;;;;;x
+imposing_desc;Whether because of their physical stature or just their typical complexion, this character has a striking posture and a commanding presence. To some, they are even terrifying at times.;Que ce soit en raison de sa stature physique ou simplement de son teint typique, ce personnage a une posture frappante et une presence imposante. Pour certains, ils sont meme terrifiants parfois;;;;;;;;;;;;x
+infertile;Unfruitful;Infructueux;;;;;;;;;;;;x
+infertile_desc;This character was unfortunate enough to be born unfruitful.;Ce personnage etait assez malheureux pour naitre infructueux;;;;;;;;;;;;x
+infertile_1;Infertile;Infertile;;;;;;;;;;;;x
+infertile_1_desc;This character was unfortunate enough to be born infertile.;Ce personnage etait assez malheureux pour naitre infertile;;;;;;;;;;;;x
+infertile_2;Barren;Sterile;;;;;;;;;;;;x
+infertile_2_desc;This character was unfortunate enough to be born barren;Ce personnage etait assez malheureux pour naitre sterile;;;;;;;;;;;;x
+lazy;Passive;Passif;;;;;;;;;;;;x
+lazy_desc;This character is rather passive.;Ce personnage est plutot passif;;;;;;;;;;;;x
+lazy_1;Laggard;Trainard;;;;;;;;;;;;x
+lazy_1_desc;This character is a bit of a laggard.;Ce personnage est un peu a la traine;;;;;;;;;;;;x
+lazy_1_death; a laggard;;;;;;;;;;;;;x
+lazy_2;Lazy;Feignant;;;;;;;;;;;;x
+lazy_2_desc;This character is lazy.;Ce personnage est feignant;;;;;;;;;;;;x
+lazy_2_death; as they were too lazy to summon a Maester;;;;;;;;;;;;;x
+lefthanded;Left Handed;Gaucher;;;;;;;;;;;;x
+lefthanded_desc;This character is better at using their left hand than their right hand. It offers them many advantages when dealing with others, but it is viewed as impious by religious authorities.;Ce personnage utilise mieux sa main gauche que sa main droite. Il leur offre de nombreux avantages lorsqu'ils traitent avec d'autres, mais il est considere comme impie par les autorites religieuses.;x;;x;;;;;;;;;x
+lisp;Slur;Insultant;;;;;;;;;;;;x
+lisp_desc;This character has a slur to their speech.;Ce caractere a un discours insultant;;;;;;;;;;;;x
+lisp_1;Sputter;Bafouille;;;;;;;;;;;;x
+lisp_1_desc;This character has a sputter to their speech.;Ce personnage bafouille pendant qu'il parle;;;;;;;;;;;;x
+lisp_2;Lisp;Zezaye;;;;;;;;;;;;x
+lisp_2_desc;This character has a lisp to their speech.;Ce personnage a un cheveux sur la langue;;;;;;;;;;;;x
+melodious_voice;Pleasing Voice;Voix plaisante;;;;;;;;;;;;x
+melodious_voice_desc;This character has a very pleasing voice.;Ce personnage a une voix tres plaisante;;;;;;;;;;;;x
+melodious_voice_1;Resonant Voice;Voix resonnante;;;;;;;;;;;;x
+melodious_voice_1_desc;This character has a very resonant voice.;Ce personnage a une voix tres resonnante;;;;;;;;;;;;x
+melodious_voice_2;Melodious Voice;Voix melodieuse;;;;;;;;;;;;x
+melodious_voice_2_desc;This character has a very melodious voice.;Ce personnage a une voix tres melodieuse;;;;;;;;;;;;x
+mute;Mute;Muet;;;;;;;;;;;;x
+mute_desc;This character was unfortunate enough to be born with the inability to speak even the simplest of noises. Such a disability limits their ability to function.;Ce personnage etait assez malheureux pour naitre avec l'incapacite de parler meme le plus simple des bruits. Une telle incapacite limite leur capacite a fonctionner.;;;;;;;;;;;;x
+powerful_voice;Robust Voice;Voix robuste;;;;;;;;;;;;x
+powerful_voice_desc;This character has a very robust voice.;Ce personnage a une voix tres robuste;;;;;;;;;;;;x
+powerful_voice_1;Powerful Voice;Voix puissante;;;;;;;;;;;;x
+powerful_voice_1_desc;This character has a very powerful voice.;Ce personnage a une voix tres puissante;;;;;;;;;;;;x
+powerful_voice_2;Dominant Voice;Voix dominante;;;;;;;;;;;;x
+powerful_voice_2_desc;This character has a very dominant voice.;Ce personnage a une voix tres dominante;;;;;;;;;;;;x
+quick;Astute;Astucieux;;;;;;;;;;;;x
+quick_desc;This character is very astute in their thoughts.;Ce personnage est tres astucieux dans ses pensees;;;;;;;;;;;;x
+quick_1;Perceptive;Perspicace;;;;;;;;;;;;x
+quick_1_desc;This character is very perceptive in their thoughts.;Ce personnage est tres perspicace;;;;;;;;;;;;x
+quick_2;Quick;Vif;;;;;;;;;;;;x
+quick_2_desc;This character is capable of lightning fast thoughts.;Ce personnage est capable de pensees rapides comme l'eclair;;;;;;;;;;;;x
+slow;Foolish;Insense;;;;;;;;;;;;x
+slow_desc;This character has trouble thinking.;Ce personnage a du mal a penser.;;;;;;;;;;;;x
+slow_1;Slow;Lent;;;;;;;;;;;;x
+slow_1_desc;This character is slow when it comes to thinking.;Ce personnage est lent quand il s'agit de penser;;;;;;;;;;;;x
+slow_2;Ignorant;Ignorant;;;;;;;;;;;;x
+slow_2_desc;This character takes forever to think of things.;Ce personnage prend une eternite a penser aux choses;;;;;;;;;;;;x
+strong;Capable;Capable;;;;;;;;;;;;x
+strong_desc;This character is blessed with a capable physique;Ce personnage est beni avec un physique capable;;;;;;;;;;;;x
+strong_1;Solid;Solide;;;;;;;;;;;;x
+strong_1_desc;This character is blessed with a solid physique;Ce personnage est beni avec un physique solide;;;;;;;;;;;;x
+strong_2;Strong;Fort;;;;;;;;;;;;x
+strong_2_desc;This character is blessed with a strong physique.;Ce personnage est beni avec un physique solide;;;;;;;;;;;;x
+stutter;Falter;Hesitant;;;;;;;;;;;;x
+stutter_desc;This character has a falter to their speech.Ce personnage est hesitation a son discours;;;;;;;;;;;;;x
+stutter_1;Stammer;Balbucie;;;;;;;;;;;;x
+stutter_1_desc;This character has a stammer to their speech.;Ce personnage balbucie quand il parle;;;;;;;;;;;;x
+stutter_2;Stutter;Begaiement;;;;;;;;;;;;x
+stutter_2_desc;This character has a stutter to their speech.;Ce personnage begaie;;;;;;;;;;;;x
+tall;Tall;Grand;;;;;;;;;;;;x
+tall_desc;This character has a tall stature.;Ce personnage est tres grand;;;;;;;;;;;;x
+tall_1;Huge;Immense;;;;;;;;;;;;x
+tall_1_desc;This character has a Huge and impressive stature;Ce personnage a une taille et stature immense;;;;;;;;;;;;x
+tall_2;Giant;Geant;;;;;;;;;;;;x
+tall_2_desc;This character has a gigantic stature, almost as if they have Giants blood in their heritage.;Ce personnage a une stature gigantesque, presque comme s'il avait du sang des geants dans son heritage.;;;;;;;;;;;;x
+ugly;Homely;Ingrat;;;;;;;;;;;;x
+ugly_desc;This character has a face that only a mother could love...;Ce personnage a un physique ingrat, seule sa mere pourra l'aimer;;;;;;;;;;;;x
+ugly_1;Unsightly;Disgracieux;;;;;;;;;;;;x
+ugly_1_desc;This character has a face that brings a tear to the eye...;Ce personnage a un visage qui apporte une larme a l'oeil .;;;;;;;;;;;;x
+ugly_2;Ugly;Laid;;;;;;;;;;;;x
+ugly_2_desc;This character has a face that even a mother couldn't love...;Ce personnage a un visage que meme une mere ne pouvait pas aimer..;;;;;;;;;;;;x
+weak;Frail;Frele;;;;;;;;;;;;x
+weak_desc;This character has a frail disposition;Ce personnage est frele;;;;;;;;;;;;x
+weak_1;Delicate;Delicat;;;;;;;;;;;;x
+weak_1_desc;This character has a delicate disposition.;Ce personnage a un physique delicat;;;;;;;;;;;;x
+weak_1_death; due to their delicate nature;en raison de sa nature delicate;;;;;;;;;;;;x
+weak_2;Weak;Faible;;;;;;;;;;;;x
+weak_2_desc;This character has a weak disposition;Ce personnage a un faible physique;;;;;;;;;;;;x
+weak_2_death; weak and sickly;Faible et malade;;;;;;;;;;;;x
+wrymouth;Wrymouth;Menton etrange;;;;;;;;;;;;x
+wrymouth_desc;This character was born with an oddly-shaped chin or jaw – perhaps it is too big, or too small. Hopefully, this facial feature won’t spread with interbreeding.;Ce personnage est ne avec un menton ou une machoire de forme etrange - peut-être trop gros ou trop petit. Esperons que cette caracteristique faciale ne se propagera pas avec des croisements;x;;x;;;;;;;;;x
+wrymouth_death: due to their unfortunate facial disfigurement;en raison de leur defiguration faciale malheureux;;;;;;;;;;;;x
+eyeleft;Eye Injury;Blessure a l'œil;;;;;;;;;;;;x
+eyeleft_desc;This character has suffered an injury to an eye and lost the use of it.;Ce personnage a subi une blessure a un oeil et a perdu l'usage de celui-ci;;;;;;;;;;;;x
+eyeleft_death; due to complications from their eye injury;en raison de complications suite aux blessures aux yeux;;;;;;;;;;;;x
+eyeright;Eye Injury;Blessure a l'œil;;;;;;;;;;;;x
+eyeright_desc;This character has suffered an injury to an eye and lost the use of it.;Ce personnage a subi une blessure a un oeil et a perdu l'usage de celui-ci;;;;;;;;;;;;x
+eyeright_death; due to complications from their eye injury;en raison de complications suite aux blessures aux yeux;;;;;;;;;;;;x
+webbed_hands;Dactyl Webbing;Handicape;;;;;;;;;;;;x
+webbed_hands_desc;This character was unfortunate to be born with webbing between their fingers or toes.;Ce personnage a eu la malchance d'etre ne avec des sangles entre les doigts ou les orteils;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+TOOLTIPKGagile; as well as being more agile than other men.;tout en etant plus agile que les autres hommes;;;;;;;;;;;;x;
+TOOLTIPKGlazy; as well as being rather more lazy than other men.;ainsi que d'etre plutot paresseux que les autres hommes;;;;;;;;;;;;x;
+heterochromia;Heterochromia;Heterochromie;;;;;;;;;;;;x
+heterochromia_desc;This character was either blessed or cursed when they were born. Both of their eyes are different colors.;Ce personnage etait beni ou maudit quand il est ne. ses deux yeux sont de couleurs differentes;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x

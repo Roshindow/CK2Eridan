@@ -1,0 +1,1624 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+e_emp = {
+	color={ 181 21 81 }
+	color2={ 255 255 20 }
+	
+	capital = 86 # c_85_0
+	culture = jiliac_culture
+	
+	k_kin = {
+		color={ 171 31 76 }
+		color2={ 255 255 255 }
+		
+		capital = 86 # c_85_0
+		culture = jiliac_culture
+		
+		d_duc = {
+			color={ 151 51 66 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 86 province_id = 87 province_id = 88 province_id = 89 province_id = 90 province_id = 91 province_id = 92 province_id = 93 province_id = 94 province_id = 95 province_id = 96 province_id = 97 province_id = 98 } }
+				}
+			}
+			capital = 86 # c_85_0
+			
+			c_85_0 = { # 86
+				color={ 141 61 61 }
+				color2={ 255 255 255 }
+				
+				b_85_0 = {
+				}
+			}
+			c_86_0 = { # 87
+				color={ 151 51 51 }
+				color2={ 255 255 255 }
+				
+				b_86_0 = {
+				}
+			}
+			c_87_0 = { # 88
+				color={ 161 41 41 }
+				color2={ 255 255 255 }
+				
+				b_87_0 = {
+				}
+			}
+			c_88_0 = { # 89
+				color={ 171 31 31 }
+				color2={ 255 255 255 }
+				
+				b_88_0 = {
+				}
+			}
+			c_89_0 = { # 90
+				color={ 181 21 21 }
+				color2={ 255 255 255 }
+				
+				b_89_0 = {
+				}
+			}
+			c_90_0 = { # 91
+				color={ 191 11 11 }
+				color2={ 255 255 255 }
+				
+				b_90_0 = {
+				}
+			}
+			c_91_0 = { # 92
+				color={ 201 1 1 }
+				color2={ 255 255 255 }
+				
+				b_91_0 = {
+				}
+			}
+			c_92_0 = { # 93
+				color={ 211 11 11 }
+				color2={ 255 255 255 }
+				
+				b_92_0 = {
+				}
+			}
+			c_93_0 = { # 94
+				color={ 221 21 21 }
+				color2={ 255 255 255 }
+				
+				b_93_0 = {
+				}
+			}
+			c_94_0 = { # 95
+				color={ 231 31 31 }
+				color2={ 255 255 255 }
+				
+				b_94_0 = {
+				}
+			}
+			c_95_0 = { # 96
+				color={ 241 41 41 }
+				color2={ 255 255 255 }
+				
+				b_95_0 = {
+				}
+			}
+			c_96_0 = { # 97
+				color={ 251 51 51 }
+				color2={ 255 255 255 }
+				
+				b_96_0 = {
+				}
+			}
+			c_97_0 = { # 98
+				color={ 201 21 21 }
+				color2={ 255 255 255 }
+				
+				b_97_0 = {
+				}
+			}
+		}
+	}
+}
+e_emp2 = {
+	color={ 215 45 235 }
+	color2={ 255 255 20 }
+	
+	capital = 99 # c_98_0
+	culture = algerian
+	
+	k_sumandy = {
+		color={ 205 35 140 }
+		color2={ 255 255 255 }
+		
+		capital = 125 # c_124_0
+		culture = algerian
+		
+		d_duc3 = {
+			color={ 25 245 10 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 125 province_id = 126 province_id = 127 province_id = 128 province_id = 129 province_id = 130 province_id = 131 province_id = 132 province_id = 133 province_id = 134 province_id = 135 province_id = 136 province_id = 137 province_id = 138 province_id = 139 province_id = 140 province_id = 141 province_id = 142 province_id = 143 province_id = 144 province_id = 145 province_id = 146 province_id = 147 province_id = 148 province_id = 149 province_id = 150 province_id = 151 province_id = 152 province_id = 153 province_id = 154 province_id = 155 province_id = 156 province_id = 157 province_id = 158 province_id = 159 province_id = 160 province_id = 161 province_id = 162 province_id = 163 province_id = 164 province_id = 165 province_id = 166 province_id = 167 province_id = 168 province_id = 169 province_id = 170 province_id = 171 province_id = 172 province_id = 173 province_id = 174 province_id = 175 province_id = 176 province_id = 177 province_id = 178 province_id = 179 province_id = 180 } }
+				}
+			}
+			capital = 125 # c_124_0
+			
+			c_124_0 = { # 125
+				color={ 15 255 5 }
+				color2={ 255 255 255 }
+				
+				b_124_0 = {
+				}
+			}
+			c_125_0 = { # 126
+				color={ 25 255 5 }
+				color2={ 255 255 255 }
+				
+				b_125_0 = {
+				}
+			}
+			c_126_0 = { # 127
+				color={ 35 255 5 }
+				color2={ 255 255 255 }
+				
+				b_126_0 = {
+				}
+			}
+			c_127_0 = { # 128
+				color={ 45 255 5 }
+				color2={ 255 255 255 }
+				
+				b_127_0 = {
+				}
+			}
+			c_128_0 = { # 129
+				color={ 55 255 5 }
+				color2={ 255 255 255 }
+				
+				b_128_0 = {
+				}
+			}
+			c_129_0 = { # 130
+				color={ 65 255 5 }
+				color2={ 255 255 255 }
+				
+				b_129_0 = {
+				}
+			}
+			c_130_0 = { # 131
+				color={ 75 255 5 }
+				color2={ 255 255 255 }
+				
+				b_130_0 = {
+				}
+			}
+			c_131_0 = { # 132
+				color={ 85 255 5 }
+				color2={ 255 255 255 }
+				
+				b_131_0 = {
+				}
+			}
+			c_132_0 = { # 133
+				color={ 95 255 5 }
+				color2={ 255 255 255 }
+				
+				b_132_0 = {
+				}
+			}
+			c_133_0 = { # 134
+				color={ 105 255 5 }
+				color2={ 255 255 255 }
+				
+				b_133_0 = {
+				}
+			}
+			c_134_0 = { # 135
+				color={ 115 255 5 }
+				color2={ 255 255 255 }
+				
+				b_134_0 = {
+				}
+			}
+			c_135_0 = { # 136
+				color={ 125 255 5 }
+				color2={ 255 255 255 }
+				
+				b_135_0 = {
+				}
+			}
+			c_136_0 = { # 137
+				color={ 135 255 5 }
+				color2={ 255 255 255 }
+				
+				b_136_0 = {
+				}
+			}
+			c_137_0 = { # 138
+				color={ 145 255 5 }
+				color2={ 255 255 255 }
+				
+				b_137_0 = {
+				}
+			}
+			c_138_0 = { # 139
+				color={ 155 255 5 }
+				color2={ 255 255 255 }
+				
+				b_138_0 = {
+				}
+			}
+			c_139_0 = { # 140
+				color={ 165 255 5 }
+				color2={ 255 255 255 }
+				
+				b_139_0 = {
+				}
+			}
+			c_140_0 = { # 141
+				color={ 175 255 5 }
+				color2={ 255 255 255 }
+				
+				b_140_0 = {
+				}
+			}
+			c_141_0 = { # 142
+				color={ 185 255 5 }
+				color2={ 255 255 255 }
+				
+				b_141_0 = {
+				}
+			}
+			c_142_0 = { # 143
+				color={ 195 255 5 }
+				color2={ 255 255 255 }
+				
+				b_142_0 = {
+				}
+			}
+			c_143_0 = { # 144
+				color={ 205 255 5 }
+				color2={ 255 255 255 }
+				
+				b_143_0 = {
+				}
+			}
+			c_144_0 = { # 145
+				color={ 215 255 5 }
+				color2={ 255 255 255 }
+				
+				b_144_0 = {
+				}
+			}
+			c_145_0 = { # 146
+				color={ 225 255 5 }
+				color2={ 255 255 255 }
+				
+				b_145_0 = {
+				}
+			}
+			c_146_0 = { # 147
+				color={ 235 255 5 }
+				color2={ 255 255 255 }
+				
+				b_146_0 = {
+				}
+			}
+			c_147_0 = { # 148
+				color={ 245 255 5 }
+				color2={ 255 255 255 }
+				
+				b_147_0 = {
+				}
+			}
+			c_148_0 = { # 149
+				color={ 255 255 5 }
+				color2={ 255 255 255 }
+				
+				b_148_0 = {
+				}
+			}
+			c_149_0 = { # 150
+				color={ 255 245 5 }
+				color2={ 255 255 255 }
+				
+				b_149_0 = {
+				}
+			}
+			c_150_0 = { # 151
+				color={ 255 235 5 }
+				color2={ 255 255 255 }
+				
+				b_150_0 = {
+				}
+			}
+			c_151_0 = { # 152
+				color={ 255 225 5 }
+				color2={ 255 255 255 }
+				
+				b_151_0 = {
+				}
+			}
+			c_152_0 = { # 153
+				color={ 255 215 5 }
+				color2={ 255 255 255 }
+				
+				b_152_0 = {
+				}
+			}
+			c_153_0 = { # 154
+				color={ 255 205 5 }
+				color2={ 255 255 255 }
+				
+				b_153_0 = {
+				}
+			}
+			c_154_0 = { # 155
+				color={ 255 195 5 }
+				color2={ 255 255 255 }
+				
+				b_154_0 = {
+				}
+			}
+			c_155_0 = { # 156
+				color={ 255 185 5 }
+				color2={ 255 255 255 }
+				
+				b_155_0 = {
+				}
+			}
+			c_156_0 = { # 157
+				color={ 255 175 5 }
+				color2={ 255 255 255 }
+				
+				b_156_0 = {
+				}
+			}
+			c_157_0 = { # 158
+				color={ 255 165 5 }
+				color2={ 255 255 255 }
+				
+				b_157_0 = {
+				}
+			}
+			c_158_0 = { # 159
+				color={ 255 155 5 }
+				color2={ 255 255 255 }
+				
+				b_158_0 = {
+				}
+			}
+			c_159_0 = { # 160
+				color={ 255 145 5 }
+				color2={ 255 255 255 }
+				
+				b_159_0 = {
+				}
+			}
+			c_160_0 = { # 161
+				color={ 255 135 5 }
+				color2={ 255 255 255 }
+				
+				b_160_0 = {
+				}
+			}
+			c_161_0 = { # 162
+				color={ 255 125 5 }
+				color2={ 255 255 255 }
+				
+				b_161_0 = {
+				}
+			}
+			c_162_0 = { # 163
+				color={ 255 115 5 }
+				color2={ 255 255 255 }
+				
+				b_162_0 = {
+				}
+			}
+			c_163_0 = { # 164
+				color={ 255 105 5 }
+				color2={ 255 255 255 }
+				
+				b_163_0 = {
+				}
+			}
+			c_164_0 = { # 165
+				color={ 255 95 5 }
+				color2={ 255 255 255 }
+				
+				b_164_0 = {
+				}
+			}
+			c_165_0 = { # 166
+				color={ 255 85 5 }
+				color2={ 255 255 255 }
+				
+				b_165_0 = {
+				}
+			}
+			c_166_0 = { # 167
+				color={ 255 75 5 }
+				color2={ 255 255 255 }
+				
+				b_166_0 = {
+				}
+			}
+			c_167_0 = { # 168
+				color={ 255 65 5 }
+				color2={ 255 255 255 }
+				
+				b_167_0 = {
+				}
+			}
+			c_168_0 = { # 169
+				color={ 255 55 5 }
+				color2={ 255 255 255 }
+				
+				b_168_0 = {
+				}
+			}
+			c_169_0 = { # 170
+				color={ 255 45 5 }
+				color2={ 255 255 255 }
+				
+				b_169_0 = {
+				}
+			}
+			c_170_0 = { # 171
+				color={ 255 35 5 }
+				color2={ 255 255 255 }
+				
+				b_170_0 = {
+				}
+			}
+			c_171_0 = { # 172
+				color={ 255 25 5 }
+				color2={ 255 255 255 }
+				
+				b_171_0 = {
+				}
+			}
+			c_172_0 = { # 173
+				color={ 255 15 5 }
+				color2={ 255 255 255 }
+				
+				b_172_0 = {
+				}
+			}
+			c_173_0 = { # 174
+				color={ 255 5 5 }
+				color2={ 255 255 255 }
+				
+				b_173_0 = {
+				}
+			}
+			c_174_0 = { # 175
+				color={ 255 5 15 }
+				color2={ 255 255 255 }
+				
+				b_174_0 = {
+				}
+			}
+			c_175_0 = { # 176
+				color={ 255 5 25 }
+				color2={ 255 255 255 }
+				
+				b_175_0 = {
+				}
+			}
+			c_176_0 = { # 177
+				color={ 255 5 35 }
+				color2={ 255 255 255 }
+				
+				b_176_0 = {
+				}
+			}
+			c_177_0 = { # 178
+				color={ 255 5 45 }
+				color2={ 255 255 255 }
+				
+				b_177_0 = {
+				}
+			}
+			c_178_0 = { # 179
+				color={ 255 5 55 }
+				color2={ 255 255 255 }
+				
+				b_178_0 = {
+				}
+			}
+			c_179_0 = { # 180
+				color={ 255 5 65 }
+				color2={ 255 255 255 }
+				
+				b_179_0 = {
+				}
+			}
+		}
+	}
+	k_kin2 = {
+		color={ 225 35 240 }
+		color2={ 255 255 255 }
+		
+		capital = 99 # c_98_0
+		culture = algerian
+		
+		d_duc2 = {
+			color={ 245 15 250 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 99 province_id = 100 province_id = 101 province_id = 102 province_id = 103 province_id = 104 province_id = 105 province_id = 106 province_id = 107 province_id = 108 province_id = 109 province_id = 110 province_id = 111 province_id = 112 province_id = 113 province_id = 114 province_id = 115 province_id = 116 province_id = 117 province_id = 118 province_id = 119 province_id = 120 province_id = 121 province_id = 122 province_id = 123 province_id = 124 } }
+				}
+			}
+			capital = 99 # c_98_0
+			
+			c_98_0 = { # 99
+				color={ 255 5 255 }
+				color2={ 255 255 255 }
+				
+				b_98_0 = {
+				}
+			}
+			c_100_0 = { # 101
+				color={ 235 25 235 }
+				color2={ 255 255 255 }
+				
+				b_100_0 = {
+				}
+			}
+			c_101_0 = { # 102
+				color={ 225 35 225 }
+				color2={ 255 255 255 }
+				
+				b_101_0 = {
+				}
+			}
+			c_102_0 = { # 103
+				color={ 215 45 215 }
+				color2={ 255 255 255 }
+				
+				b_102_0 = {
+				}
+			}
+			c_103_0 = { # 104
+				color={ 205 55 205 }
+				color2={ 255 255 255 }
+				
+				b_103_0 = {
+				}
+			}
+			c_104_0 = { # 105
+				color={ 195 65 195 }
+				color2={ 255 255 255 }
+				
+				b_104_0 = {
+				}
+			}
+			c_105_0 = { # 106
+				color={ 185 75 185 }
+				color2={ 255 255 255 }
+				
+				b_105_0 = {
+				}
+			}
+			c_106_0 = { # 107
+				color={ 175 85 175 }
+				color2={ 255 255 255 }
+				
+				b_106_0 = {
+				}
+			}
+			c_107_0 = { # 108
+				color={ 165 95 165 }
+				color2={ 255 255 255 }
+				
+				b_107_0 = {
+				}
+			}
+			c_108_0 = { # 109
+				color={ 155 105 155 }
+				color2={ 255 255 255 }
+				
+				b_108_0 = {
+				}
+			}
+			c_109_0 = { # 110
+				color={ 145 115 145 }
+				color2={ 255 255 255 }
+				
+				b_109_0 = {
+				}
+			}
+			c_110_0 = { # 111
+				color={ 135 125 135 }
+				color2={ 255 255 255 }
+				
+				b_110_0 = {
+				}
+			}
+			c_111_0 = { # 112
+				color={ 125 135 125 }
+				color2={ 255 255 255 }
+				
+				b_111_0 = {
+				}
+			}
+			c_112_0 = { # 113
+				color={ 115 145 115 }
+				color2={ 255 255 255 }
+				
+				b_112_0 = {
+				}
+			}
+			c_113_0 = { # 114
+				color={ 105 155 105 }
+				color2={ 255 255 255 }
+				
+				b_113_0 = {
+				}
+			}
+			c_114_0 = { # 115
+				color={ 95 165 95 }
+				color2={ 255 255 255 }
+				
+				b_114_0 = {
+				}
+			}
+			c_115_0 = { # 116
+				color={ 85 175 85 }
+				color2={ 255 255 255 }
+				
+				b_115_0 = {
+				}
+			}
+			c_116_0 = { # 117
+				color={ 75 185 75 }
+				color2={ 255 255 255 }
+				
+				b_116_0 = {
+				}
+			}
+			c_117_0 = { # 118
+				color={ 65 195 65 }
+				color2={ 255 255 255 }
+				
+				b_117_0 = {
+				}
+			}
+			c_118_0 = { # 119
+				color={ 55 205 55 }
+				color2={ 255 255 255 }
+				
+				b_118_0 = {
+				}
+			}
+			c_119_0 = { # 120
+				color={ 45 215 45 }
+				color2={ 255 255 255 }
+				
+				b_119_0 = {
+				}
+			}
+			c_120_0 = { # 121
+				color={ 35 225 35 }
+				color2={ 255 255 255 }
+				
+				b_120_0 = {
+				}
+			}
+			c_121_0 = { # 122
+				color={ 25 235 25 }
+				color2={ 255 255 255 }
+				
+				b_121_0 = {
+				}
+			}
+			c_122_0 = { # 123
+				color={ 15 245 15 }
+				color2={ 255 255 255 }
+				
+				b_122_0 = {
+				}
+			}
+			c_123_0 = { # 124
+				color={ 5 255 5 }
+				color2={ 255 255 255 }
+				
+				b_123_0 = {
+				}
+			}
+			c_99_0 = { # 100
+				color={ 245 15 245 }
+				color2={ 255 255 255 }
+				
+				b_99_0 = {
+				}
+			}
+		}
+	}
+}
+e_greater_redland = {
+	color={ 251 71 31 }
+	color2={ 255 255 20 }
+	
+	capital = 2 # c_1_0
+	culture = gotene
+	
+	k_gotoek = {
+		color={ 255 218 30 }
+		color2={ 255 255 255 }
+		
+		capital = 2 # c_1_0
+		culture = algerian
+	}
+	k_sekonland = {
+		color={ 241 81 26 }
+		color2={ 255 255 255 }
+		
+		capital = 2 # c_1_0
+		culture = gotene
+		
+		d_reshld = {
+			color={ 221 101 16 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 2 province_id = 3 province_id = 4 province_id = 5 province_id = 6 province_id = 7 province_id = 8 province_id = 9 } }
+				}
+			}
+			capital = 2 # c_1_0
+			
+			c_1_0 = { # 2
+				color={ 211 111 11 }
+				color2={ 255 255 255 }
+				
+				b_1_0 = {
+				}
+			}
+			c_2_0 = { # 3
+				color={ 211 101 11 }
+				color2={ 255 255 255 }
+				
+				b_2_0 = {
+				}
+			}
+			c_3_0 = { # 4
+				color={ 231 101 21 }
+				color2={ 255 255 255 }
+				
+				b_3_0 = {
+				}
+			}
+			c_4_0 = { # 5
+				color={ 221 151 51 }
+				color2={ 255 255 255 }
+				
+				b_4_0 = {
+				}
+			}
+			c_5_0 = { # 6
+				color={ 211 121 51 }
+				color2={ 255 255 255 }
+				
+				b_5_0 = {
+				}
+			}
+			c_6_0 = { # 7
+				color={ 201 121 21 }
+				color2={ 255 255 255 }
+				
+				b_6_0 = {
+				}
+			}
+			c_7_0 = { # 8
+				color={ 191 101 51 }
+				color2={ 255 255 255 }
+				
+				b_7_0 = {
+				}
+			}
+			c_8_0 = { # 9
+				color={ 191 131 31 }
+				color2={ 255 255 255 }
+				
+				b_8_0 = {
+				}
+			}
+		}
+		d_medeland = {
+			color={ 110 190 5 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 10 province_id = 11 province_id = 12 province_id = 13 province_id = 14 province_id = 15 province_id = 16 } }
+				}
+			}
+			capital = 10 # c_9_0
+			
+			c_9_0 = { # 10
+				color={ 100 200 0 }
+				color2={ 255 255 255 }
+				
+				b_9_0 = {
+				}
+			}
+			c_10_0 = { # 11
+				color={ 110 210 10 }
+				color2={ 255 255 255 }
+				
+				b_10_0 = {
+				}
+			}
+			c_11_0 = { # 12
+				color={ 120 220 20 }
+				color2={ 255 255 255 }
+				
+				b_11_0 = {
+				}
+			}
+			c_12_0 = { # 13
+				color={ 130 230 30 }
+				color2={ 255 255 255 }
+				
+				b_12_0 = {
+				}
+			}
+			c_13_0 = { # 14
+				color={ 140 240 40 }
+				color2={ 255 255 255 }
+				
+				b_13_0 = {
+				}
+			}
+			c_14_0 = { # 15
+				color={ 150 250 50 }
+				color2={ 255 255 255 }
+				
+				b_14_0 = {
+				}
+			}
+			c_15_0 = { # 16
+				color={ 160 240 100 }
+				color2={ 255 255 255 }
+				
+				b_15_0 = {
+				}
+			}
+		}
+		d_ninba = {
+			color={ 230 250 35 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 17 province_id = 18 province_id = 19 province_id = 20 province_id = 21 province_id = 22 province_id = 23 province_id = 24 } }
+				}
+			}
+			capital = 17 # c_16_0
+			
+			c_16_0 = { # 17
+				color={ 240 240 40 }
+				color2={ 255 255 255 }
+				
+				b_16_0 = {
+				}
+			}
+			c_17_0 = { # 18
+				color={ 230 230 30 }
+				color2={ 255 255 255 }
+				
+				b_17_0 = {
+				}
+			}
+			c_18_0 = { # 19
+				color={ 220 220 20 }
+				color2={ 255 255 255 }
+				
+				b_18_0 = {
+				}
+			}
+			c_19_0 = { # 20
+				color={ 210 210 10 }
+				color2={ 255 255 255 }
+				
+				b_19_0 = {
+				}
+			}
+			c_20_0 = { # 21
+				color={ 200 200 0 }
+				color2={ 255 255 255 }
+				
+				b_20_0 = {
+				}
+			}
+			c_21_0 = { # 22
+				color={ 250 250 70 }
+				color2={ 255 255 255 }
+				
+				b_21_0 = {
+				}
+			}
+			c_22_0 = { # 23
+				color={ 250 250 60 }
+				color2={ 255 255 255 }
+				
+				b_22_0 = {
+				}
+			}
+			c_23_0 = { # 24
+				color={ 230 210 30 }
+				color2={ 255 255 255 }
+				
+				b_23_0 = {
+				}
+			}
+		}
+	}
+	k_getrevu = {
+		color={ 130 90 175 }
+		color2={ 255 255 255 }
+		
+		capital = 72 # c_71_0
+		culture = getrevan
+		
+		d_sida = {
+			color={ 50 70 185 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 79 province_id = 80 } }
+				}
+			}
+			capital = 80 # c_79_0
+		}
+		d_twynte = {
+			color={ 150 170 185 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 72 province_id = 73 province_id = 74 province_id = 75 province_id = 76 province_id = 77 province_id = 78 province_id = 79 province_id = 80 province_id = 81 province_id = 82 province_id = 83 province_id = 84 province_id = 85 } }
+				}
+			}
+			capital = 72 # c_71_0
+			
+			c_71_0 = { # 72
+				color={ 160 60 190 }
+				color2={ 255 255 255 }
+				
+				b_71_0 = {
+				}
+			}
+			c_72_0 = { # 73
+				color={ 150 50 170 }
+				color2={ 255 255 255 }
+				
+				b_72_0 = {
+				}
+			}
+		}
+		d_fothern = {
+			color={ 150 70 85 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 74 province_id = 75 province_id = 82 province_id = 83 } }
+				}
+			}
+			capital = 73 # c_72_0
+			
+			c_73_0 = { # 74
+				color={ 240 170 100 }
+				color2={ 255 255 255 }
+				
+				b_73_0 = {
+				}
+			}
+			c_74_0 = { # 75
+				color={ 230 160 110 }
+				color2={ 255 255 255 }
+				
+				b_74_0 = {
+				}
+			}
+			c_81_0 = { # 82
+				color={ 240 190 50 }
+				color2={ 255 255 255 }
+				
+				b_81_0 = {
+				}
+			}
+			c_82_0 = { # 83
+				color={ 250 180 90 }
+				color2={ 255 255 255 }
+				
+				b_82_0 = {
+				}
+			}
+		}
+		d_seare = {
+			color={ 50 70 85 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 76 province_id = 77 province_id = 78 province_id = 79 province_id = 80 province_id = 81 province_id = 84 province_id = 85 } }
+				}
+			}
+			capital = 76 # c_75_0
+			
+			c_75_0 = { # 76
+				color={ 220 150 120 }
+				color2={ 255 255 255 }
+				
+				b_75_0 = {
+				}
+			}
+			c_76_0 = { # 77
+				color={ 210 160 130 }
+				color2={ 255 255 255 }
+				
+				b_76_0 = {
+				}
+			}
+			c_77_0 = { # 78
+				color={ 200 170 140 }
+				color2={ 255 255 255 }
+				
+				b_77_0 = {
+				}
+			}
+			c_78_0 = { # 79
+				color={ 190 180 150 }
+				color2={ 255 255 255 }
+				
+				b_78_0 = {
+				}
+			}
+			c_79_0 = { # 80
+				color={ 180 190 160 }
+				color2={ 255 255 255 }
+				
+				b_79_0 = {
+				}
+			}
+			c_80_0 = { # 81
+				color={ 170 200 170 }
+				color2={ 255 255 255 }
+				
+				b_80_0 = {
+				}
+			}
+			c_83_0 = { # 84
+				color={ 250 190 10 }
+				color2={ 255 255 255 }
+				
+				b_83_0 = {
+				}
+			}
+			c_84_0 = { # 85
+				color={ 230 160 120 }
+				color2={ 255 255 255 }
+				
+				b_84_0 = {
+				}
+			}
+		}
+	}
+	k_greatwall = {
+		color={ 210 20 65 }
+		color2={ 255 255 255 }
+		
+		capital = 67 # c_66_0
+		culture = gryndish
+		
+		d_tret = {
+			color={ 190 40 55 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 67 province_id = 68 } }
+				}
+			}
+			capital = 67 # c_66_0
+			
+			c_66_0 = { # 67
+				color={ 180 50 50 }
+				color2={ 255 255 255 }
+				
+				b_66_0 = {
+				}
+			}
+			c_67_0 = { # 68
+				color={ 170 40 40 }
+				color2={ 255 255 255 }
+				
+				b_67_0 = {
+				}
+			}
+		}
+		d_koroo = {
+			color={ 100 160 35 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 69 province_id = 70 province_id = 71 } }
+				}
+			}
+			capital = 69 # c_68_0
+			
+			c_68_0 = { # 69
+				color={ 90 170 30 }
+				color2={ 255 255 255 }
+				
+				b_68_0 = {
+				}
+			}
+			c_69_0 = { # 70
+				color={ 100 160 40 }
+				color2={ 255 255 255 }
+				
+				b_69_0 = {
+				}
+			}
+			c_70_0 = { # 71
+				color={ 110 150 50 }
+				color2={ 255 255 255 }
+				
+				b_70_0 = {
+				}
+			}
+		}
+	}
+	k_gutre = {
+		color={ 24 20 65 }
+		color2={ 255 255 255 }
+		
+		capital = 25 # c_24_0
+		culture = gutrishi
+		
+		d_reagoo = {
+			color={ 4 40 55 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 25 province_id = 26 province_id = 27 province_id = 28 province_id = 29 province_id = 30 } }
+				}
+			}
+			capital = 25 # c_24_0
+			
+			c_24_0 = { # 25
+				color={ 250 50 50 }
+				color2={ 255 255 255 }
+				
+				b_24_0 = {
+				}
+			}
+			c_25_0 = { # 26
+				color={ 240 40 40 }
+				color2={ 255 255 255 }
+				
+				b_25_0 = {
+				}
+			}
+			c_26_0 = { # 27
+				color={ 230 30 30 }
+				color2={ 255 255 255 }
+				
+				b_26_0 = {
+				}
+			}
+			c_27_0 = { # 28
+				color={ 220 20 20 }
+				color2={ 255 255 255 }
+				
+				b_27_0 = {
+				}
+			}
+			c_28_0 = { # 29
+				color={ 210 10 10 }
+				color2={ 255 255 255 }
+				
+				b_28_0 = {
+				}
+			}
+			c_29_0 = { # 30
+				color={ 200 0 0 }
+				color2={ 255 255 255 }
+				
+				b_29_0 = {
+				}
+			}
+		}
+		d_gutremarch = {
+			color={ 190 190 5 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 31 province_id = 32 province_id = 33 province_id = 34 } }
+				}
+			}
+			capital = 31 # c_30_0
+			
+			c_30_0 = { # 31
+				color={ 180 200 0 }
+				color2={ 255 255 255 }
+				
+				b_40_0 = {
+				}
+			}
+			c_31_0 = { # 32
+				color={ 170 190 10 }
+				color2={ 255 255 255 }
+				
+				b_41_0 = {
+				}
+			}
+			c_32_0 = { # 33
+				color={ 160 180 20 }
+				color2={ 255 255 255 }
+				
+				b_42_0 = {
+				}
+			}
+			c_33_0 = { # 34
+				color={ 150 170 30 }
+				color2={ 255 255 255 }
+				
+				b_43_0 = {
+				}
+			}
+		}
+	}
+	k_redlands = {
+		color={ 230 0 0 }
+		color2={ 255 255 255 }
+		
+		capital = 35 # c_34_0
+		culture = redlander
+		
+		d_jordencastle = {
+			color={ 210 246 185 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 province_id = 38 province_id = 39 } }
+				}
+			}
+			capital = 35 # c_34_0
+			
+			c_34_0 = { # 35
+				color={ 200 0 180 }
+				color2={ 255 255 255 }
+				
+				b_30_0 = {
+				}
+			}
+			c_35_0 = { # 36
+				color={ 210 10 190 }
+				color2={ 255 255 255 }
+				
+				b_31_0 = {
+				}
+			}
+			c_36_0 = { # 37
+				color={ 220 20 200 }
+				color2={ 255 255 255 }
+				
+				b_32_0 = {
+				}
+			}
+			c_37_0 = { # 38
+				color={ 230 30 210 }
+				color2={ 255 255 255 }
+				
+				b_33_0 = {
+				}
+			}
+			c_38_0 = { # 39
+				color={ 240 40 220 }
+				color2={ 255 255 255 }
+				
+				b_34_0 = {
+				}
+			}
+		}
+		d_esterwatch = {
+			color={ 210 50 55 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 48 province_id = 49 province_id = 50 } }
+				}
+			}
+			capital = 48 # c_47_0
+			
+			c_47_0 = { # 48
+				color={ 200 60 50 }
+				color2={ 255 255 255 }
+				
+				b_47_0 = {
+				}
+			}
+			c_48_0 = { # 49
+				color={ 190 70 60 }
+				color2={ 255 255 255 }
+				
+				b_48_0 = {
+				}
+			}
+			c_49_0 = { # 50
+				color={ 200 80 70 }
+				color2={ 255 255 255 }
+				
+				b_49_0 = {
+				}
+			}
+		}
+		d_gostland = {
+			color={ 140 170 135 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 45 province_id = 46 province_id = 47 } }
+				}
+			}
+			capital = 45 # c_44_0
+			
+			c_44_0 = { # 45
+				color={ 150 160 140 }
+				color2={ 255 255 255 }
+				
+				b_44_0 = {
+				}
+			}
+			c_45_0 = { # 46
+				color={ 140 170 150 }
+				color2={ 255 255 255 }
+				
+				b_45_0 = {
+				}
+			}
+			c_46_0 = { # 47
+				color={ 130 180 160 }
+				color2={ 255 255 255 }
+				
+				b_46_0 = {
+				}
+			}
+		}
+		d_longland = {
+			color={ 20 170 35 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 51 province_id = 52 province_id = 53 } }
+				}
+			}
+			capital = 51 # c_50_0
+			
+			c_50_0 = { # 51
+				color={ 10 180 30 }
+				color2={ 255 255 255 }
+				
+				b_50_0 = {
+				}
+			}
+			c_51_0 = { # 52
+				color={ 20 170 40 }
+				color2={ 255 255 255 }
+				
+				b_51_0 = {
+				}
+			}
+			c_52_0 = { # 53
+				color={ 30 160 50 }
+				color2={ 255 255 255 }
+				
+				b_52_0 = {
+				}
+			}
+		}
+		d_orbeland = {
+			color={ 200 110 195 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 61 province_id = 62 province_id = 63 province_id = 64 province_id = 65 province_id = 66 } }
+				}
+			}
+			capital = 61 # c_60_0
+			
+			c_60_0 = { # 61
+				color={ 210 100 200 }
+				color2={ 255 255 255 }
+				
+				b_60_0 = {
+				}
+			}
+			c_61_0 = { # 62
+				color={ 200 110 190 }
+				color2={ 255 255 255 }
+				
+				b_61_0 = {
+				}
+			}
+			c_62_0 = { # 63
+				color={ 190 120 180 }
+				color2={ 255 255 255 }
+				
+				b_62_0 = {
+				}
+			}
+			c_63_0 = { # 64
+				color={ 180 130 170 }
+				color2={ 255 255 255 }
+				
+				b_63_0 = {
+				}
+			}
+			c_64_0 = { # 65
+				color={ 170 140 160 }
+				color2={ 255 255 255 }
+				
+				b_64_0 = {
+				}
+			}
+			c_65_0 = { # 66
+				color={ 160 150 170 }
+				color2={ 255 255 255 }
+				
+				b_65_0 = {
+				}
+			}
+		}
+		d_reststo = {
+			color={ 230 150 35 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 40 province_id = 41 province_id = 42 province_id = 43 province_id = 44 } }
+				}
+			}
+			capital = 40 # c_39_0
+			
+			c_39_0 = { # 40
+				color={ 240 140 40 }
+				color2={ 255 255 255 }
+				
+				b_35_0 = {
+				}
+			}
+			c_40_0 = { # 41
+				color={ 230 130 30 }
+				color2={ 255 255 255 }
+				
+				b_36_0 = {
+				}
+			}
+			c_41_0 = { # 42
+				color={ 220 120 20 }
+				color2={ 255 255 255 }
+				
+				b_37_0 = {
+				}
+			}
+			c_42_0 = { # 43
+				color={ 210 110 10 }
+				color2={ 255 255 255 }
+				
+				b_38_0 = {
+				}
+			}
+			c_43_0 = { # 44
+				color={ 200 100 0 }
+				color2={ 255 255 255 }
+				
+				b_39_0 = {
+				}
+			}
+		}
+		d_westermarch = {
+			color={ 240 230 45 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 54 province_id = 55 province_id = 56 province_id = 57 province_id = 58 province_id = 59 province_id = 60 } }
+				}
+			}
+			capital = 54 # c_53_0
+			
+			c_53_0 = { # 54
+				color={ 250 220 50 }
+				color2={ 255 255 255 }
+				
+				b_53_0 = {
+				}
+			}
+			c_54_0 = { # 55
+				color={ 240 210 60 }
+				color2={ 255 255 255 }
+				
+				b_54_0 = {
+				}
+			}
+			c_55_0 = { # 56
+				color={ 230 200 70 }
+				color2={ 255 255 255 }
+				
+				b_55_0 = {
+				}
+			}
+			c_56_0 = { # 57
+				color={ 220 190 80 }
+				color2={ 255 255 255 }
+				
+				b_56_0 = {
+				}
+			}
+			c_57_0 = { # 58
+				color={ 210 180 90 }
+				color2={ 255 255 255 }
+				
+				b_57_0 = {
+				}
+			}
+			c_58_0 = { # 59
+				color={ 200 170 100 }
+				color2={ 255 255 255 }
+				
+				b_58_0 = {
+				}
+			}
+			c_59_0 = { # 60
+				color={ 190 160 110 }
+				color2={ 255 255 255 }
+				
+				b_59_0 = {
+				}
+			}
+		}
+	}
+}

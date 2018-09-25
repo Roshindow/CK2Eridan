@@ -1,0 +1,3 @@
+-- Format for overwriting define values:
+--
+-- NDefines.NGraphics.NUMBER_OF_PROPERTIES = 18

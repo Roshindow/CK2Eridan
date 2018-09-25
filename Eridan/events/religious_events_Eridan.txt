@@ -1,0 +1,21 @@
+###########################################
+# Brozgexok startup				          #
+###########################################
+
+namespace = ERB
+
+narrative_event = {
+	id = ERB.1000
+	title = EVTTITLE_ERB_1000
+	desc = EVTDESC_ERB_1000
+	picture = GFX_religion_brozgexok_startup
+	border = GFX_event_narrative_frame_war
+	
+	religion = brozgexok
+
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA_ERB_1000
+	}
+}

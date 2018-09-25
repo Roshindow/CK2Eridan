@@ -1,0 +1,4 @@
+grandchild_of_incest = {
+	brozgexok_opinion = -5
+	icon = 3
+}

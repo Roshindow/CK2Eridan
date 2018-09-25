@@ -1,0 +1,150 @@
+mars_group = {
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    crusade_cb = crusade
+    playable = yes
+    
+    brozgexok = {
+        graphical_culture = westerngfx
+        
+        icon = 57
+        color = { 0 0 0 }
+        
+        crusade_name = "CRUSADE"
+        scripture_name = THE_GOLLMURON
+        god_names = {
+            GOD_ERGAXAACH
+        }
+        
+        piety_name = HONOR
+        aggression = 2.5
+        peace_prestige_loss = yes
+        peace_piety_gain = -1.0
+		max_wives = 15
+        
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_invasion_cb = invasion
+        can_grant_claim = yes
+        can_call_crusade = yes
+    }
+}
+thrythian_religion_group = {
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    crusade_cb = crusade
+    playable = yes
+    
+    garic = {
+        graphical_culture = westerngfx
+        
+        icon = 58
+        color = { 0 1 0 }
+        
+        crusade_name = "CRUSADE"
+        scripture_name = THE_BOOK
+        god_names = {
+            GOD_GOD
+        }
+        
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_invasion_cb = invasion
+        can_grant_claim = yes
+        can_call_crusade = yes
+    }
+	
+    taresin = {
+        graphical_culture = westerngfx
+        
+        icon = 59
+        color = { 0 0 1 }
+        
+        crusade_name = "CRUSADE"
+        scripture_name = THE_BOOK
+        god_names = {
+            GOD_GOD
+        }
+        
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_invasion_cb = invasion
+        can_grant_claim = yes
+        can_call_crusade = yes
+    }
+}
+njoris_group = {
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    crusade_cb = crusade
+    playable = yes
+    
+    njoric = {
+        graphical_culture = westerngfx
+        
+        icon = 1
+        color = { 0 0 0.4 }
+        
+        crusade_name = "CRUSADE"
+        scripture_name = THE_BOOK
+        god_names = {
+            GOD_GOD
+        }
+        
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_invasion_cb = invasion
+        can_grant_claim = yes
+        can_call_crusade = yes
+    }
+}
+jiliac_religion_group = {
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    crusade_cb = crusade
+    playable = yes
+    
+    jiliac_religion = {
+        graphical_culture = westerngfx
+        
+        icon = 1
+        color = { 0.55 0.27 0.08 }
+        
+        crusade_name = "CRUSADE"
+        scripture_name = THE_BOOK
+        god_names = {
+            GOD_GOD
+        }
+        
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_invasion_cb = invasion
+        can_grant_claim = yes
+        can_call_crusade = yes
+    }
+}
+nhozaer_group = {
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    crusade_cb = crusade
+    playable = yes
+    
+    nhozaer = {
+        graphical_culture = westerngfx
+        
+        icon = 1
+        color = { 0.82 0.7 0.55 }
+        
+        crusade_name = "CRUSADE"
+        scripture_name = THE_BOOK
+        god_names = {
+            GOD_GOD
+        }
+        
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_invasion_cb = invasion
+        can_grant_claim = yes
+        can_call_crusade = yes
+    }
+}

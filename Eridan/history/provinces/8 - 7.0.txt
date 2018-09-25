@@ -1,0 +1,15 @@
+# c_7_0
+
+# County Title
+title = c_7_0
+
+# Settlements
+max_settlements = 1
+
+b_7_0 = castle
+
+# Misc
+culture = sekoic
+religion = brozgexok
+
+#History

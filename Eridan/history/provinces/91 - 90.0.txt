@@ -1,0 +1,15 @@
+# c_90_0
+
+# County Title
+title = c_90_0
+
+# Settlements
+max_settlements = 1
+
+b_90_0 = castle
+
+# Misc
+culture = firgaez
+religion = nhozaer
+
+#History

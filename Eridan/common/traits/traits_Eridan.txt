@@ -1,0 +1,66 @@
+familyperson = {			#Ned/Walder Frey.
+	personality = yes
+	
+	opposites = {
+#		selfish
+		kinslayer
+	}
+	
+	opposite_opinion = -10
+	same_opinion = 5
+	dynasty_opinion = 5
+	spouse_opinion = 5
+	
+	ruler_designer_cost = 4
+	
+	male_insult_adj = INSULT_NEPOTISTIC
+	female_insult_adj = INSULT_NEPOTISTIC
+}
+annoying = {
+	potential = {
+		age = 11
+	}
+	personality = yes
+
+	intrigue = -3
+	diplomacy = -4
+
+	opposites = {
+		gregarious
+	}
+
+	opposite_opinion = -30
+	general_opinion = -10
+
+	ai_rationality = -10
+}
+psychopath = {
+	potential = {
+		age = 13
+	}
+	personality = yes
+
+	intrigue = 5
+	diplomacy = -10
+
+	opposites = {
+		gregarious
+	}
+
+	opposite_opinion = -60
+	general_opinion = -50
+
+	ai_rationality = -30
+}
+raper = {
+	general_opinion = -50
+	brozgexok_opinion = 70
+}
+makikar = {
+	intrigue = 10
+	
+	combat_rating = -10
+	
+	general_opinion = -20
+	brozgexok_opinion = 15
+}

@@ -1,0 +1,25 @@
+EVTDESCbeauty_inheritance.0;This child resembles its family - but the subtle differences will determine how others respond to [GetHerHis] appearance.;;;;;;;;;;;;;x
+EVTOPTAbeauty_inheritance.0;One can only hope for the best.;;;;;;;;;;;;;x
+EVTDESCstrength_inheritance.0;"As this child begins to feed and grow, you begin to see indications of [GetHerHis] future physical strength and stamina.";;;;;;;;;;;;;x
+EVTOPTAstrength_inheritance.0;May [GetSheHe] become as fit and vigorous as the heroes of old!;;;;;;;;;;;;;x
+EVTDESCintelligence_inheritance.0;"As this child interacts with the world, you learn whether or not [GetSheHe] takes after [GetHerHis] parents in mental ability.";;;;;;;;;;;;;x
+EVTOPTAintelligence_inheritance.0;Pray [GetSheHe] has learned from [GetHerHis] family even while in the womb;;;;;;;;;;;;;x
+EVTDESCtallness_inheritance.0;"As this child begins to feed and grow, you begin to see indications of [GetHerHis] future height.";;;;;;;;;;;;;x
+EVTOPTAtallness_inheritance.0;May [GetSheHe] grow as tall of stature as the heroes of old!;;;;;;;;;;;;;x
+EVTDESCagility_inheritance.0;"As this child begins to feed and grow, you begin to see indications of [GetHerHis] future physical agility and stamina.";;;;;;;;;;;;;x
+EVTOPTAagility_inheritance.0;May [GetSheHe] become as fit and vigorous as the heroes of old!;;;;;;;;;;;;;x
+EVTDESCvocal_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTOPTAvocal_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTDESChandedness_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTOPTAhandedness_inheritance.0;Or this;;;;;;;;;;;;;x
+EVTDESCfertility_inheritance.0;"As this child begins to feed and grow, you begin to see indications of [GetHerHis] future fertility.";;;;;;;;;;;;;x
+EVTOPTAfertility_inheritance.0;May [GetSheHe] become as fruitful as the heroes of old!;;;;;;;;;;;;;x
+EVTDESCeye_injury.0;You may have suffered a serious injury to one of your eyes.;;;;;;;;;;;;;x
+EVTDESCeye_injury.1;Unfortunately you have forever lost complete vision from your left eye.;;;;;;;;;;;;;x
+EVTDESCeye_injury.2;Unfortunately you have forever lost complete vision from your right eye.;;;;;;;;;;;;;x
+EVTDESCeye_injury.3;The scare has passed and fortunately your eyesight has remained strong. There is no threat of vision loss.;;;;;;;;;;;;;x
+EVTDESCeye_injury.4;Sadly your one good eye was recently injured. There is a smacll chance that you may be blinded.;;;;;;;;;;;;;x
+EVTDESCeye_injury.5;Thankfully vision has returned to your remaining good eye.;;;;;;;;;;;;;x
+EVTDESCeye_injury.6;Sadly as each day goes by your vision has not returned. You have become blinded.;;;;;;;;;;;;;x
+EVTDESCeye_injury.7;You may have injured one of your eyes, but as vision has left you long ago you are not concerned.;;;;;;;;;;;;;x
+EVT_OPT_combat_trait.3_eyeinjury;Instead [From.GetSheHe] hurt one of his eyes.;;;;;;;;;;;;;x

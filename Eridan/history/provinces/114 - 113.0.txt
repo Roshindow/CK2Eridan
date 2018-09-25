@@ -1,0 +1,15 @@
+# c_113_0
+
+# County Title
+title = c_113_0
+
+# Settlements
+max_settlements = 1
+
+b_113_0 = castle
+
+# Misc
+culture = algerian
+religion = catholic
+
+#History

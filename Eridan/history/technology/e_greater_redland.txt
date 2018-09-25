@@ -1,0 +1,34 @@
+#GREATER REDLAND
+technology = {
+	titles = {
+		d_duc3
+		d_esterwatch
+		d_fothern
+		d_gostland
+		d_gutremarch
+		d_jordencastle
+		d_koroo
+		d_longland
+		d_medeland
+		d_ninba
+		d_orbeland
+		d_reagoo
+		d_reshld
+		d_reststo
+		d_seare
+		d_sida
+		d_tret
+		d_twynte
+		d_westermarch
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

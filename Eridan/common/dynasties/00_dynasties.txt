@@ -1,0 +1,126 @@
+1=
+{
+	name="Sumandey"
+	culture="sumansch"
+}
+2=
+{
+	name="Test"
+	culture="saxon"
+}
+3=
+{
+	name="Ollach"
+	culture="saxon"
+}
+4=
+{
+	name="Gullyton"
+	culture="redlander"
+	coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 1
+            texture_internal = 13
+            emblem = 24
+            color = 3
+            color = 3
+            color = 3
+        }
+    }
+}
+5=
+{
+	name="Yondin"
+	culture="saxon"
+}
+6=
+{
+	name="Hammels"
+	culture="fjor"
+}
+7=
+{
+	name="of Benjamville"
+	culture="saxon"
+}
+8=
+{
+	name="Pramster"
+	culture="redlander"
+}
+9=
+{
+	name="Muntres"
+	culture="redlander"
+}
+10=
+{
+	name="Albsen"
+	culture="redlander"
+}
+11=
+{
+	name="Bennett"
+	culture="redlander"
+}
+12=
+{
+	name="Rivers"
+	culture="redlander"
+}
+13=
+{
+	name="Rockk"
+	culture="redlander"
+}
+14=
+{
+	name="Terok"
+	culture="redlander"
+}
+15=
+{
+	name="Clerke"
+	culture="redlander"
+}
+16=
+{
+	name="Golde"
+	culture="redlander"
+}
+17=
+{
+	name="Sparrman"
+	culture="redlander"
+}
+18=
+{
+	name="Darylster"
+	culture="redlander"
+}
+19=
+{
+	name="Gulmon"
+	culture="redlander"
+}
+20=
+{
+	name="Tykid"
+	culture="redlander"
+}
+21=
+{
+	name="Grens"
+	culture="redlander"
+}
+22=
+{
+	name="Greenfeild"
+	culture="redlander"
+}
+23=
+{
+	name="Charman"
+	culture="redlander"
+}
