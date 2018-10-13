@@ -49,5 +49,35 @@ song = {
 	volume = 0.48
 }
 
+song = {
+	name = "epicDragon.ogg"
+	song_name = "Epic Dragon"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}
+
+song = {
+	name = "evilDutchman.ogg"
+	song_name = "Evil Dutchman"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}
+
+song = {
+	name = "sonsOfTheStorm.ogg"
+	song_name = "Sons Of The Storm"
+	
+	chance = {
+		factor = 1 
+	}
+	volume = 0.48
+}
+
 
 
