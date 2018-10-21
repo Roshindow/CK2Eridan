@@ -53,4 +53,23 @@ jiliac_religion_DESC;Jiliac description;;;;;;;;;;;;;x
 nhozaer_group;Nhozaer;;;;;;;;;;;;;x
 nhozaer;Nhozaer;;;;;;;;;;;;;x
 nhozaer_DESC;Nhozaer description;;;;;;;;;;;;;x
+three_group;The Three;;;;;;;;;;;;;x
+church_of_the_three;Church of the Three;;;;;;;;;;;;;x
+church_of_the_three_DESC;By far the most popular, this is the most common sect and most accepted of the Three doctrines;;;;;;;;;;;;;x
+infinitarianism;Infinitarianism;;;;;;;;;;;;;x
+infinitarianism_DESC;These people believe that if you are pious enough, you can ascend, yet there are more fanatics who use psychedelics and suicide to achieve 'ascendancy';;;;;;;;;;;;;x
+dualism;Dualism;;;;;;;;;;;;;x
+dualism_DESC;These people are the ones the Church of the Three was based on, but these heretics don't recognize the ascended, based on the Scriptures of Omallis.;;;;;;;;;;;;;x
+trianism;Trianism;;;;;;;;;;;;;x
+trianism_DESC;These fanatics believe that the 3 are in fact 3 separate gods and have no intertwining to each other. Hated for being polytheistic.;;;;;;;;;;;;;x
+ARCHON;Archon;;;;;;;;;;;;;x
+title_church_of_the_three_cardinal;Head Archons;;;;;;;;;;;;;x
+PRIME_ARCHON;Prime Archon;;;;;;;;;;;;;x
+PRIME_ARCHON_HEIR;Prime Archon Heir;;;;;;;;;;;;;x
+PRIME_ARCHON_HEIR_TOOLTIP;Prime Archon Heir;;;;;;;;;;;;;x
+expected_next_title_church_of_the_three_cardinal;Expected next Archon;;;;;;;;;;;;;x
+expected_next_title_church_of_the_three_cardinal_tooltip;Expected next Archon;;;;;;;;;;;;;x
+best_candidate_title_church_of_the_three_cardinal;My best Archon candidate;;;;;;;;;;;;;x
+best_candidate_title_church_of_the_three_cardinal_tooltip;My best Archon candidate;;;;;;;;;;;;;x
+HEAD_ARCHORNS;Head Archorns Council;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;x

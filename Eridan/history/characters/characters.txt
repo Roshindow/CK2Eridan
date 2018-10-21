@@ -97,6 +97,15 @@
 	
     2027.01.15 = { birth=yes }
 }
+12 = {
+    name=William
+    dynasty=2
+	
+    religion=church_of_the_three
+    culture=redlander
+	
+    2027.01.15 = { birth=yes }
+}
 10000 = {
 	name="Jon"
 	dynasty=1
@@ -181,7 +190,7 @@
 	stewardship=3
 	learning=4
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="sumansch"
 	
 	add_trait="arbitrary"

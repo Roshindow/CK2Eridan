@@ -1,0 +1,9 @@
+# e_emp
+500.1.1={
+	law = agnatic_succession
+	law = succ_papal_succession
+	government = theocracy_government
+}
+2050.1.1={
+    holder=12
+}

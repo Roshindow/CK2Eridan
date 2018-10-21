@@ -73,6 +73,176 @@ thrythian_religion_group = {
         can_call_crusade = yes
     }
 }
+three_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # always try to convert
+	
+	color = { 0.8 0.8 0.6 }
+	
+	# Names given only to Christian characters (base names)
+	male_names = {
+		Andrew Antoninus Bartolomeus Benedict Christian Christopher Clement Constantine David Demetrius Eustace George Gregory 
+		Hans Isaac Joakim Jacob John Jordan Joseph Laurence Magnus Marcus Martin Matthew Michael Nicholas Patrick Paul Peter Philip 
+		Salvador Samuel Sebastian Simon Stephen Thomas Abraham Alexander Daniel Jesus Job Joshua Cyrus Luke Zachariah
+	}
+	female_names = {
+		Anna Beatrice Benedicta Brigid Catherine Cecilia Christina Clementia Constance Dorothy Elisabeth Joan Judith Juliana Helen 
+		Magdalena Margaret Maria Marine Patricia Philippa Rachel 
+		Sarah Sophia Stephania
+	}
+	
+	church_of_the_three = {
+		graphical_culture = westerngfx
+
+		icon = 60
+		heresy_icon = 61
+		
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = ARCHON
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
+		
+		investiture = yes
+		can_have_antipopes = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	
+	infinitarianism = {
+		graphical_culture = westerngfx
+
+		icon = 62
+		heresy_icon = 61
+		
+		color = { 0.8 0.8 0.6 }
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = ARCHON
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
+		
+		investiture = yes
+		can_have_antipopes = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	
+	dualism = {
+		graphical_culture = westerngfx
+
+		icon = 60
+		heresy_icon = 61
+		
+		color = { 0.8 0.8 0.6 }
+		parent = church_of_the_three
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = ARCHON
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
+		
+		investiture = yes
+		can_have_antipopes = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+	
+	trianism = {
+		graphical_culture = westerngfx
+
+		icon = 60
+		heresy_icon = 61
+		
+		color = { 0.8 0.8 0.6 }
+		parent = church_of_the_three
+		
+		crusade_name = CRUSADE
+		scripture_name = THE_BIBLE
+		priest_title = ARCHON
+		
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
+		
+		investiture = yes
+		can_have_antipopes = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
+}
 njoris_group = {
     has_coa_on_barony_only = yes
     graphical_culture = westerngfx
@@ -121,6 +291,9 @@ jiliac_religion_group = {
         can_grant_invasion_cb = invasion
         can_grant_claim = yes
         can_call_crusade = yes
+		
+		female_temple_holders = yes
+		male_temple_holders = no
     }
 }
 nhozaer_group = {

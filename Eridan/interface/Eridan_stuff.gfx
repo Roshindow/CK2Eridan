@@ -38,4 +38,12 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+	spriteType = {
+		name = "GFX_religion_pontiffs_bg"
+		texturefile = "gfx\\interface\\religion_pontiffs_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_religion_open_cardinal_screen"
+		texturefile = "interface\\religion_open_cardinal_screen.dds"
+	}
 }
