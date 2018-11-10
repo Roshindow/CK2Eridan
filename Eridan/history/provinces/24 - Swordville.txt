@@ -1,0 +1,15 @@
+# c_swordville
+
+# County Title
+title = c_swordville
+
+# Settlements
+max_settlements = 1
+
+b_24_0 = castle
+
+# Misc
+culture = sekoic
+religion = church_of_the_three
+
+#History

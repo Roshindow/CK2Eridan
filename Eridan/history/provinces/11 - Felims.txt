@@ -1,0 +1,15 @@
+# c_felims
+
+# County Title
+title = c_felims
+
+# Settlements
+max_settlements = 1
+
+b_11_0 = castle
+
+# Misc
+culture = gotene
+religion = brozgexok
+
+#History

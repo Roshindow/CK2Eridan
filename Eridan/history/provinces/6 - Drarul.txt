@@ -1,0 +1,15 @@
+# c_drarul
+
+# County Title
+title = c_drarul
+
+# Settlements
+max_settlements = 1
+
+b_6_0 = castle
+
+# Misc
+culture = gotene
+religion = garic
+
+#History

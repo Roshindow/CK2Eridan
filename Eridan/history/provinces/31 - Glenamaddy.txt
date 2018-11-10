@@ -1,0 +1,15 @@
+# c_glenamaddy
+
+# County Title
+title = c_glenamaddy
+
+# Settlements
+max_settlements = 1
+
+b_31_0 = castle
+
+# Misc
+culture = gutrishi
+religion = taresin
+
+#History

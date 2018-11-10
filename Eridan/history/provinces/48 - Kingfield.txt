@@ -1,0 +1,15 @@
+# c_kingfield
+
+# County Title
+title = c_kingfield
+
+# Settlements
+max_settlements = 1
+
+b_48_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

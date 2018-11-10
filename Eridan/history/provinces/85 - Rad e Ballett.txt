@@ -1,0 +1,15 @@
+# c_rad_e_ballett
+
+# County Title
+title = c_rad_e_ballett
+
+# Settlements
+max_settlements = 1
+
+b_85_0 = castle
+
+# Misc
+culture = siocha
+religion = taresin
+
+#History

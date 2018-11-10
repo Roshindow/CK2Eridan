@@ -1,0 +1,15 @@
+# c_talmaug
+
+# County Title
+title = c_talmaug
+
+# Settlements
+max_settlements = 1
+
+b_9_0 = castle
+
+# Misc
+culture = gotene
+religion = taresin
+
+#History

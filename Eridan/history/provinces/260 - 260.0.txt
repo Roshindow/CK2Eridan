@@ -1,0 +1,15 @@
+# c_260_0
+
+# County Title
+title = c_260_0
+
+# Settlements
+max_settlements = 1
+
+b_260_0 = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

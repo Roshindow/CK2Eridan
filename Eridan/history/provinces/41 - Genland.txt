@@ -1,0 +1,15 @@
+# c_genland
+
+# County Title
+title = c_genland
+
+# Settlements
+max_settlements = 1
+
+b_41_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

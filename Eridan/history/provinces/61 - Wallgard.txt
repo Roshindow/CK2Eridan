@@ -1,0 +1,15 @@
+# c_wallgard
+
+# County Title
+title = c_wallgard
+
+# Settlements
+max_settlements = 1
+
+b_61_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

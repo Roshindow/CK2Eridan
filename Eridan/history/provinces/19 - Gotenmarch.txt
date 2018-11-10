@@ -1,0 +1,15 @@
+# c_gotenmarch
+
+# County Title
+title = c_gotenmarch
+
+# Settlements
+max_settlements = 1
+
+b_19_0 = castle
+
+# Misc
+culture = sekoic
+religion = church_of_the_three
+
+#History

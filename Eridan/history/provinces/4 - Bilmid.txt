@@ -1,0 +1,15 @@
+# c_bilmid
+
+# County Title
+title = c_bilmid
+
+# Settlements
+max_settlements = 1
+
+b_4_0 = castle
+
+# Misc
+culture = gotene
+religion = brozgexok
+
+#History

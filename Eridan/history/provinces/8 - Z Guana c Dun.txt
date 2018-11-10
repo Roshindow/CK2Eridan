@@ -1,0 +1,15 @@
+# c_z_guana_c_dun
+
+# County Title
+title = c_z_guana_c_dun
+
+# Settlements
+max_settlements = 1
+
+b_8_0 = castle
+
+# Misc
+culture = sekoic
+religion = brozgexok
+
+#History

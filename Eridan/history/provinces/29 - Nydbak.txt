@@ -1,0 +1,15 @@
+# c_nydbak
+
+# County Title
+title = c_nydbak
+
+# Settlements
+max_settlements = 1
+
+b_29_0 = castle
+
+# Misc
+culture = gutrishi
+religion = church_of_the_three
+
+#History

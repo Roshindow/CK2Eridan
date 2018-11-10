@@ -1,0 +1,15 @@
+# c_lakeside
+
+# County Title
+title = c_lakeside
+
+# Settlements
+max_settlements = 1
+
+b_38_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

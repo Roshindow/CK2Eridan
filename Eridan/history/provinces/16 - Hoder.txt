@@ -1,0 +1,15 @@
+# c_hoder
+
+# County Title
+title = c_hoder
+
+# Settlements
+max_settlements = 1
+
+b_16_0 = castle
+
+# Misc
+culture = redlander
+religion = brozgexok
+
+#History

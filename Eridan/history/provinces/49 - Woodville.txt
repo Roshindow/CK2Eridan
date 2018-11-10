@@ -1,0 +1,15 @@
+# c_woodville
+
+# County Title
+title = c_woodville
+
+# Settlements
+max_settlements = 1
+
+b_49_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

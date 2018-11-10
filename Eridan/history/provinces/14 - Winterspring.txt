@@ -1,0 +1,15 @@
+# c_winterspring
+
+# County Title
+title = c_winterspring
+
+# Settlements
+max_settlements = 1
+
+b_14_0 = castle
+
+# Misc
+culture = sekoic
+religion = garic
+
+#History

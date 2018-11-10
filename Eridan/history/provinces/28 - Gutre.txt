@@ -1,0 +1,15 @@
+# c_gutre
+
+# County Title
+title = c_gutre
+
+# Settlements
+max_settlements = 1
+
+b_28_0 = castle
+
+# Misc
+culture = gutrishi
+religion = taresin
+
+#History

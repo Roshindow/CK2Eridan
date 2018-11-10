@@ -1,0 +1,15 @@
+# c_sothport
+
+# County Title
+title = c_sothport
+
+# Settlements
+max_settlements = 1
+
+b_68_0 = castle
+
+# Misc
+culture = gryndish
+religion = church_of_the_three
+
+#History

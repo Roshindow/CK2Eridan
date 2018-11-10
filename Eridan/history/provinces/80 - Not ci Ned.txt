@@ -1,0 +1,15 @@
+# c_not_ci_ned
+
+# County Title
+title = c_not_ci_ned
+
+# Settlements
+max_settlements = 1
+
+b_80_0 = castle
+
+# Misc
+culture = siocha
+religion = taresin
+
+#History

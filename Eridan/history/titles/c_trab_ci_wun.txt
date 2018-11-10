@@ -1,0 +1,8 @@
+# e_greater_redland
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+2090.1.1={
+    holder=11
+}

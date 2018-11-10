@@ -1,0 +1,77 @@
+#EMPTEMP
+technology = {
+	titles = {
+		d_westjilia1
+		d_westjilia2
+		d_westjilia3
+		d_westjilia4
+		d_westjilia5
+		d_westjilia6
+		d_westjilia7
+		d_westjilia8
+		d_westjilia9
+		d_westjilia10
+		d_westjilia11
+		d_westjilia12
+		d_westjilia13
+		d_westjilia14
+		d_westjilia15
+		d_westjilia16
+		d_eastjilia1
+		d_eastjilia2
+		d_eastjilia3
+		d_eastjilia4
+		d_eastjilia5
+		d_eastjilia6
+		d_eastjilia7
+		d_eastjilia8
+		d_eastjilia9
+		d_eastjilia10
+		d_eastjilia11
+		d_eastjilia12
+		d_eastjilia13
+		d_eastjilia14
+		d_eastjilia15
+		d_eastjilia16
+		d_eastjilia17
+		d_eastjilia18
+		d_eastjilia19
+		d_eastjilia20
+		d_eastjilia21
+		d_eastjilia22
+		d_eastjilia23
+		d_properjilia1
+		d_properjilia2
+		d_properjilia3
+		d_properjilia4
+		d_properjilia5
+		d_properjilia6
+		d_properjilia7
+		d_nejilia1
+		d_nejilia2
+		d_nejilia3
+		d_nejilia4
+		d_nejilia5
+		d_nejilia6
+		d_nejilia7
+		d_northjilia1
+		d_northjilia2
+		d_northjilia3
+		d_northjilia4
+		d_northjilia5
+		d_northjilia6
+		d_northjilia7
+		d_northjilia8
+		d_sejilia1
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

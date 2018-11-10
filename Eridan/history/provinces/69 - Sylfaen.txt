@@ -1,0 +1,15 @@
+# c_sylfaen
+
+# County Title
+title = c_sylfaen
+
+# Settlements
+max_settlements = 1
+
+b_69_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

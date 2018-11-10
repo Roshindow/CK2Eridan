@@ -1,0 +1,15 @@
+# c_axelswrath
+
+# County Title
+title = c_axelswrath
+
+# Settlements
+max_settlements = 1
+
+b_15_0 = castle
+
+# Misc
+culture = sekoic
+religion = taresin
+
+#History

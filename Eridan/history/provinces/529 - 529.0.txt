@@ -1,0 +1,15 @@
+# c_529_0
+
+# County Title
+title = c_529_0
+
+# Settlements
+max_settlements = 1
+
+b_529_0 = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

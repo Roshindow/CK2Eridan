@@ -1,0 +1,15 @@
+# c_northon_by_the_sea
+
+# County Title
+title = c_northon_by_the_sea
+
+# Settlements
+max_settlements = 1
+
+b_53_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

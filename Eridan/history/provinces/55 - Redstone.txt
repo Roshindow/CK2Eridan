@@ -1,0 +1,15 @@
+# c_redstone
+
+# County Title
+title = c_redstone
+
+# Settlements
+max_settlements = 1
+
+b_55_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

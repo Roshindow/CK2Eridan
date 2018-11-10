@@ -1,0 +1,15 @@
+# c_olfmaen
+
+# County Title
+title = c_olfmaen
+
+# Settlements
+max_settlements = 1
+
+b_18_0 = castle
+
+# Misc
+culture = gotene
+religion = church_of_the_three
+
+#History

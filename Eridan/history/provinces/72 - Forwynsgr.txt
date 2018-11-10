@@ -1,0 +1,15 @@
+# c_forwynsgr
+
+# County Title
+title = c_forwynsgr
+
+# Settlements
+max_settlements = 1
+
+b_72_0 = castle
+
+# Misc
+culture = getrevman
+religion = garic
+
+#History

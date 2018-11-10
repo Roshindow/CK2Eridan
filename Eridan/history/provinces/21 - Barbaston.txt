@@ -1,0 +1,15 @@
+# c_barbaston
+
+# County Title
+title = c_barbaston
+
+# Settlements
+max_settlements = 1
+
+b_21_0 = castle
+
+# Misc
+culture = sekoic
+religion = church_of_the_three
+
+#History

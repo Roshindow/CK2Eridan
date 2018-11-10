@@ -1,21 +1,35 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+k_drennu;Drennu;;;;;;;;;;;;;x
+k_drennu_adj;Drennuian;;Drennuer;;;;;;;;;;;x
+k_east_jilia;East Jilia;East Jilia;East Jilia;;East Jilia;;;;;;;;;x
+k_east_jilia_adj;East Jilian;;East Jiler;;;;;;;;;;;x
 k_getrevu;Getrevu;Getrevu;Getrevu;;Getrevu;;;;;;;;;x
 k_getrevu_adj;Getrevian;;getrever;;;;;;;;;;;x
+k_gotoek;Gotoek;Gotoek;Gotoek;;Gotoek;;;;;;;;;x
+k_gotoek_adj;Gotoekian;;Gotoeker;;;;;;;;;;;x
 k_greatwall;Greatwall;Greatwall;Greatwall;;Greatwall;;;;;;;;;x
 k_greatwall_adj;Greatwallian;;greatwaller;;;;;;;;;;;x
 k_gutre;Gutre;Gutre;Gutre;;Gutre;;;;;;;;;x
 k_gutre_adj;Gutrean;;gutrer;;;;;;;;;;;x
+k_jilia_proper;Jilia Proper;Jilia Proper;Jilia Proper;;Jilia Proper;;;;;;;;;x
+k_jilia_proper_adj;Jilia Properian;;Jilia Properer;;;;;;;;;;;x
 k_kin;kin;kin;kin;;kin;;;;;;;;;x
 k_kin_adj;kinian;;kiner;;;;;;;;;;;x
 k_kin2;kin2;kin2;kin2;;kin2;;;;;;;;;x
 k_kin2_adj;kin2ian;;kin2er;;;;;;;;;;;x
+k_kinjungle;kinjungle;kinjungle;kinjungle;;kinjungle;;;;;;;;;x
+k_kinjungle_adj;kinjunglean;;kinjungler;;;;;;;;;;;x
+k_ne_jilia;NE Jilia;NE Jilia;NE Jilia;;NE Jilia;;;;;;;;;x
+k_ne_jilia_adj;NE Jilian;;NE Jiler;;;;;;;;;;;x
+k_north_jilia;North Jilia;North Jilia;North Jilia;;North Jilia;;;;;;;;;x
+k_north_jilia_adj;North Jilian;;North Jiler;;;;;;;;;;;x
 k_redlands;Redlands;Redlands;Redlands;;Redlands;;;;;;;;;x
 k_redlands_adj;Redlandsian;;redlandser;;;;;;;;;;;x
+k_se_jilia;SE Jilia;SE Jilia;SE Jilia;;SE Jilia;;;;;;;;;x
+k_se_jilia_adj;SE Jilian;;SE Jiler;;;;;;;;;;;x
 k_sekonland;Sekonland;Sekonland;Sekonland;;Sekonland;;;;;;;;;x
 k_sekonland_adj;Sekonlandian;;sekonlander;;;;;;;;;;;x
-k_gotoek;Gotoek;Gotoek;Gotoek;;Gotoek;;;;;;;;;x
-k_gotoek_adj;Gotoekian;;Gotoeker;;;;;;;;;;;x
 k_sumandy;Sumandy;Sumandy;Sumandy;;Sumandy;;;;;;;;;x
-k_sumandy_adj;Sumandyian;;Sumandyer;;;;;;;;;;;x
-k_drennu;Drennu;;;;;;;;;;;;;x
-k_drennu_adj;Drennuian;;Drennuer;;;;;;;;;;;x
+k_sumandy_adj;Sumandian;;sumander;;;;;;;;;;;x
+k_west_jilia;West Jilia;West Jilia;West Jilia;;West Jilia;;;;;;;;;x
+k_west_jilia_adj;West Jilian;;West Jiler;;;;;;;;;;;x

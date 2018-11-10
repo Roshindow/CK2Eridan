@@ -1,0 +1,15 @@
+# c_vagraan
+
+# County Title
+title = c_vagraan
+
+# Settlements
+max_settlements = 1
+
+b_3_0 = castle
+
+# Misc
+culture = gotene
+religion = brozgexok
+
+#History

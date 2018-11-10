@@ -1,0 +1,15 @@
+# c_riversport
+
+# County Title
+title = c_riversport
+
+# Settlements
+max_settlements = 1
+
+b_13_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

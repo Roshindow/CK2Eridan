@@ -1,0 +1,15 @@
+# c_northsfort
+
+# County Title
+title = c_northsfort
+
+# Settlements
+max_settlements = 1
+
+b_7_0 = castle
+
+# Misc
+culture = sekoic
+religion = garic
+
+#History

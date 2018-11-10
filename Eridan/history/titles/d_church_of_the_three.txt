@@ -4,6 +4,6 @@
 	law = succ_papal_succession
 	government = theocracy_government
 }
-2050.1.1={
+2090.1.1={
     holder=12
 }

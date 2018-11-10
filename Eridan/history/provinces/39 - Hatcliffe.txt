@@ -1,0 +1,15 @@
+# c_hatcliffe
+
+# County Title
+title = c_hatcliffe
+
+# Settlements
+max_settlements = 1
+
+b_39_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

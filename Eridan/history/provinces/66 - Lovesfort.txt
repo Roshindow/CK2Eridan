@@ -1,0 +1,15 @@
+# c_lovesfort
+
+# County Title
+title = c_lovesfort
+
+# Settlements
+max_settlements = 1
+
+b_66_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

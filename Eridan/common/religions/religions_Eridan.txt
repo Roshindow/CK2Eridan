@@ -1,3 +1,34 @@
+placeholder_group = {
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    crusade_cb = crusade
+    playable = yes
+    
+    placeholder = {
+        graphical_culture = westerngfx
+        
+        icon = 57
+        color = { 0 0 0 }
+        
+        crusade_name = "CRUSADE"
+        scripture_name = THE_GOLLMURON
+        god_names = {
+            GOD_ERGAXAACH
+        }
+        
+        piety_name = HONOR
+        aggression = 2.5
+        peace_prestige_loss = yes
+        peace_piety_gain = -1.0
+		max_wives = 15
+        
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_invasion_cb = invasion
+        can_grant_claim = yes
+        can_call_crusade = yes
+    }
+}
 mars_group = {
     has_coa_on_barony_only = yes
     graphical_culture = westerngfx

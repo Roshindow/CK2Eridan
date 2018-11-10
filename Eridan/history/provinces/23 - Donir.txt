@@ -1,0 +1,15 @@
+# c_donir
+
+# County Title
+title = c_donir
+
+# Settlements
+max_settlements = 1
+
+b_23_0 = castle
+
+# Misc
+culture = gotene
+religion = garic
+
+#History

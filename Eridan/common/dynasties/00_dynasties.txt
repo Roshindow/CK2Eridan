@@ -1,7 +1,7 @@
 1=
 {
 	name="Sumandey"
-	culture="sumansch"
+	culture="sumansh"
 }
 2=
 {

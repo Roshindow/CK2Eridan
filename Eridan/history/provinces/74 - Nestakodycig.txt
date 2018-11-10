@@ -1,0 +1,15 @@
+# c_nestakodycig
+
+# County Title
+title = c_nestakodycig
+
+# Settlements
+max_settlements = 1
+
+b_74_0 = castle
+
+# Misc
+culture = getrevman
+religion = garic
+
+#History

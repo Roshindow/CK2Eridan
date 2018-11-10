@@ -1,0 +1,15 @@
+# c_estercastle
+
+# County Title
+title = c_estercastle
+
+# Settlements
+max_settlements = 1
+
+b_34_0 = castle
+
+# Misc
+culture = redlander
+religion = church_of_the_three
+
+#History

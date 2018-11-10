@@ -1,0 +1,15 @@
+# c_trab_ci_wun
+
+# County Title
+title = c_trab_ci_wun
+
+# Settlements
+max_settlements = 1
+
+b_76_0 = castle
+
+# Misc
+culture = siocha
+religion = garic
+
+#History

@@ -1,0 +1,15 @@
+# c_153_0
+
+# County Title
+title = c_153_0
+
+# Settlements
+max_settlements = 1
+
+b_153_0 = castle
+
+# Misc
+culture = sumansh
+religion = placeholder
+
+#History

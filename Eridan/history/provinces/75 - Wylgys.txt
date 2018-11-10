@@ -1,0 +1,15 @@
+# c_wylgys
+
+# County Title
+title = c_wylgys
+
+# Settlements
+max_settlements = 1
+
+b_75_0 = castle
+
+# Misc
+culture = getrevman
+religion = garic
+
+#History

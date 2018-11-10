@@ -56,7 +56,7 @@
     name=William
     dynasty=2
 	
-    religion=catholic
+    religion=church_of_the_three
     culture=redlander
 	
     2027.01.15 = { birth=yes }
@@ -65,7 +65,7 @@
     name=William
     dynasty=2
 	
-    religion=catholic
+    religion=church_of_the_three
     culture=redlander
 	
     2027.01.15 = { birth=yes }
@@ -74,7 +74,7 @@
     name=William
     dynasty=2
 	
-    religion=catholic
+    religion=church_of_the_three
     culture=redlander
 	
     2027.01.15 = { birth=yes }
@@ -83,7 +83,7 @@
     name=William
     dynasty=2
 	
-    religion=catholic
+    religion=church_of_the_three
     culture=redlander
 	
     2027.01.15 = { birth=yes }
@@ -92,7 +92,7 @@
     name=William
     dynasty=2
 	
-    religion=catholic
+    religion=church_of_the_three
     culture=redlander
 	
     2027.01.15 = { birth=yes }
@@ -122,8 +122,8 @@
 	stewardship=1
 	learning=1
 	
-	religion="catholic"
-	culture="sumansch"
+	religion="church_of_the_three"
+	culture="sumansh"
 	
 	add_trait="fair"
 	add_trait="cynical"
@@ -158,8 +158,8 @@
 	stewardship=1
 	learning=1
 	
-	religion="catholic"
-	culture="sumansch"
+	religion="church_of_the_three"
+	culture="sumansh"
 	
 	add_trait="mastermind_theologian"
 	add_trait="cynical"
@@ -191,7 +191,7 @@
 	learning=4
 	
 	religion="church_of_the_three"
-	culture="sumansch"
+	culture="sumansh"
 	
 	add_trait="arbitrary"
 	add_trait="proud"
@@ -252,7 +252,7 @@
 #	father=
 	mother=10012
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -277,7 +277,7 @@
 #	father=
 #	mother=
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -301,7 +301,7 @@
 	father=10004
 	mother=10005
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 	add_trait="chaste"
@@ -324,7 +324,7 @@
 	father=10004
 	mother=10005
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -349,7 +349,7 @@
 	father=1004
 	mother=1005
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -369,7 +369,7 @@
 	father=10016
 	mother=10008
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -412,7 +412,7 @@
 #	father=
 #	mother=
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -433,7 +433,7 @@
 #	father=
 	mother=10012
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -454,7 +454,7 @@
 #	father=
 	mother=10012
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -502,7 +502,7 @@
 #	father=
 #	mother=
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -526,7 +526,7 @@
 #	father=
 #	mother=
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -550,7 +550,7 @@
 	father=10017
 	mother=10007
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander"
 	
 #	historical = yes 
@@ -682,7 +682,7 @@
 	name="Damon"
 	dynasty=8
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -693,7 +693,7 @@
 	name="Karson"
 	dynasty=9
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -704,7 +704,7 @@
 	name="Jorden"
 	dynasty=10
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -715,7 +715,7 @@
 	name="Cameron"
 	dynasty=11
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -726,7 +726,7 @@
 	name="Nael"
 	dynasty=12
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -737,7 +737,7 @@
 	name="Daisy"
 	dynasty=13
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -748,7 +748,7 @@
 	name="Dwayne"
 	dynasty=14
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -759,7 +759,7 @@
 	name="Peter"
 	dynasty=15
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -770,7 +770,7 @@
 	name="Aydin"
 	dynasty=16
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -781,7 +781,7 @@
 	name="Jack"
 	dynasty=17
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -792,7 +792,7 @@
 	name="Joyce"
 	dynasty=18
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -803,7 +803,7 @@
 	name="Ramon"
 	dynasty=19
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -814,7 +814,7 @@
 	name="Cedar"
 	dynasty=20
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -825,7 +825,7 @@
 	name="Or"
 	dynasty=21
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -836,7 +836,7 @@
 	name="Hart"
 	dynasty=22
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
@@ -847,7 +847,7 @@
 	name="Wyl"
 	dynasty=23
 	
-	religion="catholic"
+	religion="church_of_the_three"
 	culture="redlander" 
 	
 	2080.1.2={
