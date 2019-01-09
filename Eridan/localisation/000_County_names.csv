@@ -959,8 +959,8 @@ c_99_0;99.0;99.0;99.0;;99.0;;;;;;;;;x
 c_99_0_adj;99.0ian;;99.0er;;;;;;;;;;;x
 c_ackermouth;Ackermouth;Ackermouth;Ackermouth;;Ackermouth;;;;;;;;;x
 c_ackermouth_adj;Ackermouthian;;ackermouther;;;;;;;;;;;x
-c_amoms;Amoms;Amoms;Amoms;;Amoms;;;;;;;;;x
-c_amoms_adj;Amomsian;;amomser;;;;;;;;;;;x
+c_amoms;Redwater Watch;Redwater Watch;Redwater Watch;;Redwater Watch;;;;;;;;;x
+c_amoms_adj;Redwater Watchian;;Redwater Watcher;;;;;;;;;;;x
 c_atems_landing;Atem's Landing;Atem's Landing;Atem's Landing;;Atem's Landing;;;;;;;;;x
 c_atems_landing_adj;Atems Landingian;;Atem's Landinger;;;;;;;;;;;x
 c_axelswrath;Axelswrath;Axelswrath;Axelswrath;;Axelswrath;;;;;;;;;x
@@ -997,8 +997,8 @@ c_firdamcoda;Firdamcoda;Firdamcoda;Firdamcoda;;Firdamcoda;;;;;;;;;x
 c_firdamcoda_adj;Firdamcodan;;firdamcoder;;;;;;;;;;;x
 c_forwynsgr;Forwynsgr;Forwynsgr;Forwynsgr;;Forwynsgr;;;;;;;;;x
 c_forwynsgr_adj;Forwynsgrian;;forwynsgrer;;;;;;;;;;;x
-c_genland;Genland;Genland;Genland;;Genland;;;;;;;;;x
-c_genland_adj;Genlandian;;genlander;;;;;;;;;;;x
+c_genland;Bayton;Bayton;Bayton;;Bayton;;;;;;;;;x
+c_genland_adj;Baytonian;;Baytoner;;;;;;;;;;;x
 c_getrev_z_grwff;Getrev z Grwff;Getrev z Grwff;Getrev z Grwff;;Getrev z Grwff;;;;;;;;;x
 c_getrev_z_grwff_adj;Getrev z Grwffian;;Getrev z Grwffer;;;;;;;;;;;x
 c_glenamaddy;Glenamaddy;Glenamaddy;Glenamaddy;;Glenamaddy;;;;;;;;;x
@@ -1007,8 +1007,8 @@ c_gollik;Gollik;Gollik;Gollik;;Gollik;;;;;;;;;x
 c_gollik_adj;Gollikian;;golliker;;;;;;;;;;;x
 c_gotenmarch;Gotenmarch;Gotenmarch;Gotenmarch;;Gotenmarch;;;;;;;;;x
 c_gotenmarch_adj;Gotenmarchian;;gotenmarcher;;;;;;;;;;;x
-c_greatwall;Greatwall;Greatwall;Greatwall;;Greatwall;;;;;;;;;x
-c_greatwall_adj;Greatwallian;;greatwaller;;;;;;;;;;;x
+c_greatwall;Hadran's Keep;Hadran's Keep;Hadran's Keep;;Hadran's Keep;;;;;;;;;x
+c_greatwall_adj;Hadran's Keepian;;Hadran's Keeper;;;;;;;;;;;x
 c_grwdnal;Grwdnal;Grwdnal;Grwdnal;;Grwdnal;;;;;;;;;x
 c_grwdnal_adj;Grwdnalian;;grwdnaler;;;;;;;;;;;x
 c_gue_aked;Gue Aked;Gue Aked;Gue Aked;;Gue Aked;;;;;;;;;x
@@ -1023,10 +1023,10 @@ c_heddgrwf;Heddgrwf;Heddgrwf;Heddgrwf;;Heddgrwf;;;;;;;;;x
 c_heddgrwf_adj;Heddgrwfian;;heddgrwfer;;;;;;;;;;;x
 c_hoder;Hoder;Hoder;Hoder;;Hoder;;;;;;;;;x
 c_hoder_adj;Hoderian;;hoderer;;;;;;;;;;;x
-c_howestill;Howestill;Howestill;Howestill;;Howestill;;;;;;;;;x
-c_howestill_adj;Howestillian;;howestiller;;;;;;;;;;;x
-c_hugast;Hugast;Hugast;Hugast;;Hugast;;;;;;;;;x
-c_hugast_adj;Hugastian;;hugaster;;;;;;;;;;;x
+c_howestill;Rockwatch;Rockwatch;Rockwatch;;Rockwatch;;;;;;;;;x
+c_howestill_adj;Rockwatchian;;Rockwatcher;;;;;;;;;;;x
+c_hugast;Adderbite;Adderbite;Adderbite;;Adderbite;;;;;;;;;x
+c_hugast_adj;Adderbiteian;;Adderbiteer;;;;;;;;;;;x
 c_kalisoo;Kalisoo;Kalisoo;Kalisoo;;Kalisoo;;;;;;;;;x
 c_kalisoo_adj;Kalisian;;kaliser;;;;;;;;;;;x
 c_keagans_landing;Keagan's Landing;Keagan's Landing;Keagan's Landing;;Keagan's Landing;;;;;;;;;x
@@ -1053,8 +1053,8 @@ c_magicfort;Magicfort;Magicfort;Magicfort;;Magicfort;;;;;;;;;x
 c_magicfort_adj;Magicfortian;;magicforter;;;;;;;;;;;x
 c_maidenwell;Maidenwell;Maidenwell;Maidenwell;;Maidenwell;;;;;;;;;x
 c_maidenwell_adj;Maidenwellian;;maidenweller;;;;;;;;;;;x
-c_mireorthis;Mireorthis;Mireorthis;Mireorthis;;Mireorthis;;;;;;;;;x
-c_mireorthis_adj;Mireorthisian;;mireorthiser;;;;;;;;;;;x
+c_mireorthis;Sånsan;Sånsan;Sånsan;;Sånsan;;;;;;;;;x
+c_mireorthis_adj;Sånsanian;;Sånsaner;;;;;;;;;;;x
 c_mysticswood;Mysticswood;Mysticswood;Mysticswood;;Mysticswood;;;;;;;;;x
 c_mysticswood_adj;Mysticswoodian;;mysticswooder;;;;;;;;;;;x
 c_naenty;Naenty;Naenty;Naenty;;Naenty;;;;;;;;;x
@@ -1121,7 +1121,7 @@ c_woodville;Woodville;Woodville;Woodville;;Woodville;;;;;;;;;x
 c_woodville_adj;Woodvillean;;woodviller;;;;;;;;;;;x
 c_wylgys;Wylgys;Wylgys;Wylgys;;Wylgys;;;;;;;;;x
 c_wylgys_adj;Wylgysian;;wylgyser;;;;;;;;;;;x
-c_yungfort;Yungfort;Yungfort;Yungfort;;Yungfort;;;;;;;;;x
-c_yungfort_adj;Yungfortian;;yungforter;;;;;;;;;;;x
+c_yungfort;Youngerfort;Youngerfort;Youngerfort;;Youngerfort;;;;;;;;;x
+c_yungfort_adj;Youngerfortian;;Youngerforter;;;;;;;;;;;x
 c_z_guana_c_dun;Z Guana c Dun;Z Guana c Dun;Z Guana c Dun;;Z Guana c Dun;;;;;;;;;x
 c_z_guana_c_dun_adj;Z Guana c Dunian;;Z Guana c Duner;;;;;;;;;;;x

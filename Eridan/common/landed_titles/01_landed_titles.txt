@@ -4909,7 +4909,7 @@ e_greater_redland = {
 		}
 	}
 	k_redlands = {
-		color={ 230 226 195 }
+		color={ 230 0 0 }
 		color2={ 255 255 255 }
 		
 		capital = 35 # c_maidenwell

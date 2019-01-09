@@ -59,16 +59,16 @@ d_esterwatch;Esterwatch;Esterwatch;Esterwatch;;Esterwatch;;;;;;;;;x
 d_esterwatch_adj;Esterwatchian;;esterwatcher;;;;;;;;;;;x
 d_fothern;Fothern;Fothern;Fothern;;Fothern;;;;;;;;;x
 d_fothern_adj;Fothernian;;fotherner;;;;;;;;;;;x
-d_gostland;Gostland;Gostland;Gostland;;Gostland;;;;;;;;;x
-d_gostland_adj;Gostlandian;;gostlander;;;;;;;;;;;x
+d_gostland;Rockwatch;Rockwatch;Rockwatch;;Rockwatch;;;;;;;;;x
+d_gostland_adj;Rockwatchian;;Rockwatcher;;;;;;;;;;;x
 d_gutremarch;Gutremarch;Gutremarch;Gutremarch;;Gutremarch;;;;;;;;;x
 d_gutremarch_adj;Gutremarchian;;gutremarcher;;;;;;;;;;;x
 d_jordencastle;Jordencastle;Jordencastle;Jordencastle;;Jordencastle;;;;;;;;;x
 d_jordencastle_adj;Jordencastlean;;jordencastler;;;;;;;;;;;x
 d_koroo;Koroo;Koroo;Koroo;;Koroo;;;;;;;;;x
 d_koroo_adj;Korian;;korer;;;;;;;;;;;x
-d_longland;Longland;Longland;Longland;;Longland;;;;;;;;;x
-d_longland_adj;Longlandian;;longlander;;;;;;;;;;;x
+d_longland;Kraken's Watch;Kraken's Watch;Kraken's Watch;;Kraken's Watch;;;;;;;;;x
+d_longland_adj;Kraken's Watchian;;Kraken's Watcher;;;;;;;;;;;x
 d_medeland;Medeland;Medeland;Medeland;;Medeland;;;;;;;;;x
 d_medeland_adj;Medelandian;;medelander;;;;;;;;;;;x
 d_nejilia1;NEJilia1;NEJilia1;NEJilia1;;NEJilia1;;;;;;;;;x
@@ -103,8 +103,8 @@ d_northjilia7;NorthJilia7;NorthJilia7;NorthJilia7;;NorthJilia7;;;;;;;;;x
 d_northjilia7_adj;NorthJilia7ian;;northjilia7er;;;;;;;;;;;x
 d_northjilia8;NorthJilia8;NorthJilia8;NorthJilia8;;NorthJilia8;;;;;;;;;x
 d_northjilia8_adj;NorthJilia8ian;;northjilia8er;;;;;;;;;;;x
-d_orbeland;Orbeland;Orbeland;Orbeland;;Orbeland;;;;;;;;;x
-d_orbeland_adj;Orbelandian;;orbelander;;;;;;;;;;;x
+d_orbeland;The Forts;The Forts;The Forts;;The Forts;;;;;;;;;x
+d_orbeland_adj;The Fortsian;;The Fortser;;;;;;;;;;;x
 d_properjilia1;ProperJilia1;ProperJilia1;ProperJilia1;;ProperJilia1;;;;;;;;;x
 d_properjilia1_adj;ProperJilia1ian;;properjilia1er;;;;;;;;;;;x
 d_properjilia2;ProperJilia2;ProperJilia2;ProperJilia2;;ProperJilia2;;;;;;;;;x
@@ -123,7 +123,7 @@ d_reagoo;Reagoo;Reagoo;Reagoo;;Reagoo;;;;;;;;;x
 d_reagoo_adj;Reagian;;reager;;;;;;;;;;;x
 d_reshld;Reshld;Reshld;Reshld;;Reshld;;;;;;;;;x
 d_reshld_adj;Reshldian;;reshlder;;;;;;;;;;;x
-d_reststo;Reststo;Reststo;Reststo;;Reststo;;;;;;;;;x
+d_reststo;Redwater Bay;Redwater Bay;Redwater Bay;;Redwater Bay;;;;;;;;;x
 d_reststo_adj;Reststian;;restster;;;;;;;;;;;x
 d_seare;Seare;Seare;Seare;;Seare;;;;;;;;;x
 d_seare_adj;Searean;;searer;;;;;;;;;;;x

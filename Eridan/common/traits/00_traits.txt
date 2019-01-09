@@ -549,11 +549,11 @@ crusader = { #40
 		mujahid
 		valhalla_bound
 		shaddai
-		fords_striker
-		sword_of_the_lamb
-		knight_templar
-		order_of_the_garter
-		danite
+		#fords_striker
+		#sword_of_the_lamb
+		#knight_templar
+		#order_of_the_garter
+		#danite
 	}
 
 	martial = 2
@@ -1494,16 +1494,16 @@ zealous = { #98
 	personality = yes
 	opposites =  {
 		cynical
-		sympathy_afro_syncretic
-		sympathy_american_native
+		#sympathy_afro_syncretic
+		#sympathy_american_native
 		sympathy_christendom
-		sympathy_cult_of_saints
-		sympathy_pacific
-		sympathy_latter_day_saints
-		sympathy_mesoamerican_gods
-		sympathy_oldworld
+		#sympathy_cult_of_saints
+		#sympathy_pacific
+		#sympathy_latter_day_saints
+		#sympathy_mesoamerican_gods
+		#sympathy_oldworld
 		sympathy_pagans
-		sympathy_pirate
+		#sympathy_pirate
 		sympathy_judaism
 		sympathy_indian
 	}
