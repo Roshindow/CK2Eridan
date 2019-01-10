@@ -1,4 +1,4 @@
-max_provinces = 596
+max_provinces = 770
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -17,13 +17,17 @@ seasons = "seasons.txt"
 externals = {
 }
 
-sea_zones = { 566 575 }
-sea_zones = { 576 576 }
-sea_zones = { 577 578 }
-sea_zones = { 579 584 }
+sea_zones = { 566 623 }#Redlands
+sea_zones = { 624 691 }#south
+sea_zones = { 692 738 }#lakes
+sea_zones = { 739 745 }#temp oceans
+sea_zones = { 746 749 }#old lakes
+sea_zones = { 750 750 }#Redlands river
+sea_zones = { 751 752 }#Sumansh river 1
+sea_zones = { 753 758 }#Sumansh river 2
 
 ocean_region = {	# OCEAN
-	sea_zones = { 1 }
+	sea_zones = { 1 2 4 6 7 8 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
@@ -31,8 +35,8 @@ tree = { 3 4 7 10 }
 
 major_rivers = 
 {
-	576
-	577 578
-	579 580
-	581 582 583 584
+	750
+	751 752
+	753 754
+	755 756 757 758
 }
