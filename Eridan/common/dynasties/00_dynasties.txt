@@ -124,3 +124,8 @@
 	name="Charman"
 	culture="redlander"
 }
+24=
+{
+	name="Siren"
+	culture="placeholder"
+}

@@ -40,6 +40,7 @@ technology = {
 		d_eastjilia21
 		d_eastjilia22
 		d_eastjilia23
+		d_eastjilia1Siren
 		d_properjilia1
 		d_properjilia2
 		d_properjilia3

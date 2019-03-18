@@ -172,6 +172,13 @@ e_emp2 = {
 			}
 			capital = 99 # c_99_0
 			
+			c_98_0 = { # 98
+				color={ 251 61 61 }
+				color2={ 255 255 255 }
+				
+				b_98_0 = {
+				}
+			}
 			c_99_0 = { # 99
 				color={ 255 5 255 }
 				color2={ 255 255 255 }
@@ -2675,7 +2682,7 @@ e_emptemp = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 241 province_id = 242 province_id = 243 } }
+					any_demesne_province = { OR = { province_id = 241 province_id = 242 } }
 				}
 			}
 			capital = 241 # c_241_0
@@ -2694,6 +2701,19 @@ e_emptemp = {
 				b_242_0 = {
 				}
 			}
+		}
+		d_eastjilia1Siren = {
+			color={ 14 14 89 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 243 } }
+				}
+			}
+			capital = 243 # c_243_0
+			
 			c_243_0 = { # 243
 				color={ 4 24 104 }
 				color2={ 255 255 255 }

@@ -854,3 +854,22 @@
 		birth=yes
 	}
 }
+10041 = {
+	name="Pysche"
+	dynasty=24
+	female=yes
+	
+	religion="placeholder"
+	culture="placeholder" 
+	
+	add_trait="kind"
+	add_trait="just"
+	add_trait="honourable"
+	add_trait="quick"
+	add_trait="short"
+	add_trait="scholar"
+	
+	2070.1.2={
+		birth=yes
+	}
+}
