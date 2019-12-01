@@ -1,0 +1,15 @@
+# c_eastvale
+
+# County Title
+title = c_eastvale
+
+# Settlements
+max_settlements = 1
+
+b_eastvale = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

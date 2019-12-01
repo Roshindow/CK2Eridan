@@ -1,0 +1,15 @@
+# c_northmarch_k
+
+# County Title
+title = c_northmarch_k
+
+# Settlements
+max_settlements = 1
+
+b_northmarch_k = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

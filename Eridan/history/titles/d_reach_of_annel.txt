@@ -1,0 +1,11 @@
+# e_emp
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=k_reach_of_annel
+}
+2090.1.1={
+    holder=1
+}

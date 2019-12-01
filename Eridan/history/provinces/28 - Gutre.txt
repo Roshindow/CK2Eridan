@@ -4,12 +4,19 @@
 title = c_gutre
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_28_0 = castle
+b_gutre = castle
+
+b_gutre_1 = city
+
+b_gutre_2 = temple
+
+b_gutre_3 = castle
 
 # Misc
 culture = gutrishi
 religion = taresin
 
 #History
+

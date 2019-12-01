@@ -4,12 +4,17 @@
 title = c_waysd
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_25_0 = castle
+b_waysd = castle
+
+b_waysd_1 = city
+
+b_waysd_2 = temple
 
 # Misc
 culture = gutrishi
 religion = taresin
 
 #History
+

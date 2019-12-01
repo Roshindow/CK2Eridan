@@ -4,12 +4,17 @@
 title = c_forwynsgr
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_72_0 = castle
+b_forwynsgr = castle
+
+b_forwynsgr_1 = city
+
+b_forwynsgr_2 = temple
 
 # Misc
 culture = getrevman
 religion = garic
 
 #History
+

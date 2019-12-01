@@ -4,12 +4,19 @@
 title = c_amoms
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_42_0 = castle
+b_amoms = castle
+
+b_amoms_1 = city
+
+b_amoms_2 = temple
+
+b_amoms_3 = castle
 
 # Misc
 culture = redlander
 religion = church_of_the_three
 
 #History
+

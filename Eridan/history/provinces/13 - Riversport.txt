@@ -4,12 +4,17 @@
 title = c_riversport
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_13_0 = castle
+b_riversport = castle
+
+b_riversport_1 = city
+
+b_riversport_2 = temple
 
 # Misc
 culture = redlander
 religion = church_of_the_three
 
 #History
+

@@ -4,12 +4,19 @@
 title = c_woodville
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_49_0 = castle
+b_woodville = castle
+
+b_woodville_1 = city
+
+b_woodville_2 = temple
+
+b_woodville_3 = castle
 
 # Misc
 culture = redlander
 religion = church_of_the_three
 
 #History
+

@@ -4,12 +4,19 @@
 title = c_grwdnal
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_70_0 = castle
+b_grwdnal = castle
+
+b_grwdnal_1 = city
+
+b_grwdnal_2 = temple
+
+b_grwdnal_3 = castle
 
 # Misc
 culture = gryndish
 religion = taresin
 
 #History
+

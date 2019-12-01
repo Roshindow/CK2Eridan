@@ -4,12 +4,19 @@
 title = c_onsbruck
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_44_0 = castle
+b_onsbruck = castle
+
+b_onsbruck_1 = city
+
+b_onsbruck_2 = temple
+
+b_onsbruck_3 = castle
 
 # Misc
 culture = redlander
 religion = church_of_the_three
 
 #History
+

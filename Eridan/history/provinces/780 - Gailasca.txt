@@ -1,0 +1,15 @@
+# c_gailasca
+
+# County Title
+title = c_gailasca
+
+# Settlements
+max_settlements = 1
+
+b_gailasca = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

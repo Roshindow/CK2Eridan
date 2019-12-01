@@ -1,0 +1,15 @@
+# c_silverlands
+
+# County Title
+title = c_silverlands
+
+# Settlements
+max_settlements = 1
+
+b_silverlands = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

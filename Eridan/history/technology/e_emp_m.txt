@@ -1,0 +1,27 @@
+#EMP
+technology = {
+	titles = {
+		d_silverlands
+		d_reach_of_annel
+		d_duskholde
+		d_gailasca
+		d_denthir_k
+		d_northmarch_k
+		d_oakenlands
+		d_esterlands
+		d_eastvale
+		d_qorunakka
+		d_dawnlands
+		d_maplehall
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

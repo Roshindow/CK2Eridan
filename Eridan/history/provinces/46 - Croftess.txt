@@ -4,12 +4,19 @@
 title = c_croftess
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_46_0 = castle
+b_croftess = castle
+
+b_croftess_1 = city
+
+b_croftess_2 = temple
+
+b_croftess_3 = castle
 
 # Misc
 culture = redlander
 religion = church_of_the_three
 
 #History
+

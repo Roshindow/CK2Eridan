@@ -4,12 +4,17 @@
 title = c_wylgys
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_75_0 = castle
+b_wylgys = castle
+
+b_wylgys_1 = city
+
+b_wylgys_2 = temple
 
 # Misc
 culture = getrevman
 religion = garic
 
 #History
+

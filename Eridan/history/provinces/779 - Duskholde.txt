@@ -1,0 +1,15 @@
+# c_duskholde
+
+# County Title
+title = c_duskholde
+
+# Settlements
+max_settlements = 1
+
+b_duskholde = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

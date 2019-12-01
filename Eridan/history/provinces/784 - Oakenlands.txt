@@ -1,0 +1,15 @@
+# c_oakenlands
+
+# County Title
+title = c_oakenlands
+
+# Settlements
+max_settlements = 1
+
+b_oakenlands = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

@@ -1,0 +1,15 @@
+# c_denthir
+
+# County Title
+title = c_denthir
+
+# Settlements
+max_settlements = 1
+
+b_denthir = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

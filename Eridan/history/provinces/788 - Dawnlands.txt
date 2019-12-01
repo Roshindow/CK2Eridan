@@ -1,0 +1,15 @@
+# c_dawnlands
+
+# County Title
+title = c_dawnlands
+
+# Settlements
+max_settlements = 1
+
+b_dawnlands = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

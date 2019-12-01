@@ -1,0 +1,15 @@
+# c_maplehall
+
+# County Title
+title = c_maplehall
+
+# Settlements
+max_settlements = 1
+
+b_maplehall = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

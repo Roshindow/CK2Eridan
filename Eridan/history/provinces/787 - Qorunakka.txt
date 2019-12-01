@@ -1,0 +1,15 @@
+# c_qorunakka
+
+# County Title
+title = c_qorunakka
+
+# Settlements
+max_settlements = 1
+
+b_qorunakka = castle
+
+# Misc
+culture = placeholder
+religion = placeholder
+
+#History

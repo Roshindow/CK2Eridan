@@ -4,12 +4,17 @@
 title = c_gue_aked
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_77_0 = castle
+b_gue_aked = castle
+
+b_gue_aked_1 = city
+
+b_gue_aked_2 = temple
 
 # Misc
 culture = siocha
 religion = taresin
 
 #History
+

@@ -4,12 +4,17 @@
 title = c_hoder
 
 # Settlements
-max_settlements = 1
+max_settlements = 3
 
-b_16_0 = castle
+b_hoder = castle
+
+b_hoder_1 = city
+
+b_hoder_2 = temple
 
 # Misc
 culture = redlander
 religion = brozgexok
 
 #History
+

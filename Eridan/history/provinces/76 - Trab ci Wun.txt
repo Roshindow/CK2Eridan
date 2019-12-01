@@ -1,15 +1,28 @@
 # c_trab_ci_wun
 
+b_ci_wun_1 = city
+
+b_ci_wun_2 = temple
+
 # County Title
 title = c_trab_ci_wun
 
-# Settlements
-max_settlements = 1
+b_ci_wun_1 = city
 
-b_76_0 = castle
+b_ci_wun_2 = temple
+
+# Settlements
+max_settlements = 3
+
+b_trab_ci_wun = castle
+
+b_trab_ci_wun_1 = city
+
+b_trab_ci_wun_2 = temple
 
 # Misc
 culture = siocha
 religion = garic
 
 #History
+
